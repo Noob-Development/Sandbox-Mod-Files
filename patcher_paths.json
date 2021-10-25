@@ -48,7 +48,8 @@
         "CoalitionCompositions(NatoOnly).xml",
         "FlagReferences.xml",
         "FlagSize.xml",
-        "CoalitionBonuses.xml"
+        "CoalitionBonuses.xml",
+        "HideDeletedUnits.xml"
       ]
     },
     "Every Deck Gets 900 Activation Points By Default": {

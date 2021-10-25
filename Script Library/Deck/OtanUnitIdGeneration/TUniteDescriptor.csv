@@ -1,26 +1,5 @@
 [ID],DescriptorId,Modules,_ShortDatabaseName,ClassNameForDebug,StickToGround,HitRollSizeModifier,NameInMenuToken,Category,TypeForAcknow,MotherCountry,MaxPacks,Factory,ProductionPrice,MaxDeployableAmount,ShowInMenu,TextureForInterface,TextureMotherCountryForInterface,UnitTypeTokens,Nationalite,Key,WorldIndex,UnitMovingType
-19791,00000000-0000-0000-0100-0000e8030000,Collection[23],Descriptor_Building_FOB_ANZ,Building_FOB_ANZ,True,10,4C06010000000000,8,3,ANZ,2,3,Collection[5],Collection[5],Collection[5],78 : 32654 (True) - TUIResourceTexture,Components,Collection[6],null,null,null,null
-19792,00000000-0000-0000-0100-0000e9030000,Collection[23],Descriptor_Building_FOB_CAN,Building_FOB_CAN,True,10,4C06010000000000,8,3,CAN,2,3,Collection[5],Collection[5],Collection[5],78 : 32658 (True) - TUIResourceTexture,TextureSourceCaracChooser,Collection[6],null,null,null,null
-19793,00000000-0000-0000-0100-0000ea030000,Collection[23],Descriptor_Building_FOB_CHINE,Building_FOB_CHINE,True,10,4C06010000000000,8,3,CHI,2,3,Collection[5],Collection[5],Collection[5],78 : 32662 (True) - TUIResourceTexture,CommonTexture_MotherCountryFlag_HOL,Collection[6],1,null,null,null
-19794,00000000-0000-0000-0100-0000eb030000,Collection[23],Descriptor_Building_FOB_CZ,Building_FOB_CZ,True,10,4C06010000000000,8,3,TCH,2,3,Collection[5],Collection[5],Collection[5],78 : 32666 (True) - TUIResourceTexture,Typeface3D_TitleMono_CompensatePostProcess,Collection[6],1,null,null,null
 19795,00000000-0000-0000-0100-0000ec030000,Collection[23],Descriptor_Building_FOB_DK,Building_FOB_DK,True,10,4C06010000000000,8,3,DAN,2,3,Collection[5],Collection[5],Collection[5],78 : 32670 (True) - TUIResourceTexture,CommonTexture_MotherCountryFlag_NK,Collection[6],null,null,null,null
-19796,00000000-0007-0000-0100-0000e8030000,Collection[23],Descriptor_Building_FOB_FIN,Building_FOB_FIN,True,10,4C06010000000000,8,3,FIN,2,3,Collection[5],Collection[5],Collection[5],78 : 32674 (True) - TUIResourceTexture,CommonTexture_MotherCountryFlag_ANZ,Collection[6],1,null,null,null
-19797,00000000-0000-0000-0100-0000ed030000,Collection[23],Descriptor_Building_FOB_FR,Building_FOB_FR,True,10,4C06010000000000,8,3,FR,2,3,Collection[5],Collection[5],Collection[5],78 : 32678 (True) - TUIResourceTexture,Divers,Collection[6],null,null,null,null
-19798,00000000-0004-0000-0100-0000e8030000,Collection[23],Descriptor_Building_FOB_HOL,Building_FOB_HOL,True,10,4C06010000000000,8,3,HOL,2,3,Collection[5],Collection[5],Collection[5],78 : 32682 (True) - TUIResourceTexture,UI,Collection[6],null,null,null,null
-19799,00000000-0005-0000-0100-0000e8030000,Collection[23],Descriptor_Building_FOB_ISR,Building_FOB_ISR,True,10,4C06010000000000,8,3,ISR,2,3,Collection[5],Collection[5],Collection[5],78 : 32686 (True) - TUIResourceTexture,CommonTexture_MotherCountryFlag_FR,Collection[6],null,null,null,null
-19800,00000000-0000-0000-0100-0000ee030000,Collection[23],Descriptor_Building_FOB_JAP,Building_FOB_JAP,True,10,4C06010000000000,8,3,JAP,2,3,Collection[5],Collection[5],Collection[5],78 : 32690 (True) - TUIResourceTexture,CommonTexture_MotherCountryFlag_SA,Collection[6],null,null,null,null
-19801,00000000-0000-0000-0100-0000ef030000,Collection[23],Descriptor_Building_FOB_NK,Building_FOB_NK,True,10,4C06010000000000,8,3,NK,2,3,Collection[5],Collection[5],Collection[5],78 : 32694 (True) - TUIResourceTexture,CommonTexture_MotherCountryFlag_URSS,Collection[6],1,null,null,null
-19802,00000000-0000-0000-0100-0000f0030000,Collection[23],Descriptor_Building_FOB_NOR,Building_FOB_NOR,True,10,4C06010000000000,8,3,NOR,2,3,Collection[5],Collection[5],Collection[5],78 : 32698 (True) - TUIResourceTexture,CommonTexture_MotherCountryFlag_RDA,Collection[6],null,null,null,null
-19803,00000000-0000-0000-0100-0000f1030000,Collection[23],Descriptor_Building_FOB_OTAN,Building_FOB_OTAN,True,10,4C06010000000000,8,3,US,2,3,Collection[5],Collection[5],Collection[5],78 : 32702 (True) - TUIResourceTexture,CommonTexture_MotherCountryFlag_POL,Collection[6],null,101,null,null
-19804,00000000-0000-0000-0100-0000f2030000,Collection[23],Descriptor_Building_FOB_POL,Building_FOB_POL,True,10,4C06010000000000,8,3,POL,2,3,Collection[5],Collection[5],Collection[5],78 : 32706 (True) - TUIResourceTexture,Zoom123,Collection[6],1,null,null,null
-19805,00000000-0000-0000-0100-0000f3030000,Collection[23],Descriptor_Building_FOB_RDA,Building_FOB_RDA,True,10,4C06010000000000,8,3,RDA,2,3,Collection[5],Collection[5],Collection[5],78 : 32710 (True) - TUIResourceTexture,CommonTexture_MotherCountryFlag_CAN,Collection[6],1,null,null,null
-19806,00000000-0000-0000-0100-0000f4030000,Collection[23],Descriptor_Building_FOB_RFA,Building_FOB_RFA,True,10,4C06010000000000,8,3,RFA,2,3,Collection[5],Collection[5],Collection[5],78 : 32714 (True) - TUIResourceTexture,CommonTexture_MotherCountryFlag_US,Collection[6],null,null,null,null
-19807,00000000-0000-0000-0100-0000f5030000,Collection[23],Descriptor_Building_FOB_ROK,Building_FOB_ROK,True,10,4C06010000000000,8,3,ROK,2,3,Collection[5],Collection[5],Collection[5],78 : 32718 (True) - TUIResourceTexture,CommonTexture_MotherCountryFlag_ISR,Collection[6],null,null,null,null
-19808,00000000-000b-0000-0100-0000e8030000,Collection[23],Descriptor_Building_FOB_SA,Building_FOB_SA,True,10,4C06010000000000,8,3,SA,2,3,Collection[5],Collection[5],Collection[5],78 : 32722 (True) - TUIResourceTexture,CommonTexture_MotherCountryFlag_SWE,Collection[6],null,null,null,null
-19809,00000000-0000-0000-0100-0000f6030000,Collection[23],Descriptor_Building_FOB_SWE,Building_FOB_SWE,True,10,4C06010000000000,8,3,SWE,2,3,Collection[5],Collection[5],Collection[5],78 : 32726 (True) - TUIResourceTexture,TextureType_TextureAnimationUnitIcone_Asynchrone,Collection[6],null,null,null,null
-19810,00000000-0000-0000-0100-0000f7030000,Collection[23],Descriptor_Building_FOB_UK,Building_FOB_UK,True,10,4C06010000000000,8,3,UK,2,3,Collection[5],Collection[5],Collection[5],78 : 32730 (True) - TUIResourceTexture,CommonTexture_MotherCountryFlag_TCH,Collection[6],null,null,null,null
-19811,00000000-0000-0000-0100-0000f8030000,Collection[23],Descriptor_Building_FOB_Varsovie,Building_FOB_Varsovie,True,10,4C06010000000000,8,3,URSS,2,3,Collection[5],Collection[5],Collection[5],78 : 32734 (True) - TUIResourceTexture,MaterialInterface2D_Blend,Collection[6],1,null,null,null
-19812,00000000-0007-0000-0100-0000e9030000,Collection[23],Descriptor_Building_FOB_YUG,Building_FOB_YUG,True,10,4C06010000000000,8,3,YUG,2,3,Collection[5],Collection[5],Collection[5],78 : 32738 (True) - TUIResourceTexture,CommonTexture_MotherCountryFlag_UK,Collection[6],1,null,null,null
 32766,00000000-0000-0000-0500-0000eb030000,Collection[6],Descriptor_Fire_Incendie,Fire_Incendie,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7,null
 45076,00000000-0000-0000-0300-0000e8030000,Collection[8],Descriptor_Company_152mm_SpGH_Dana,Company_152mm_SpGH_Dana,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 45111,00000000-0000-0000-0300-0000e9030000,Collection[8],Descriptor_Company_2K12_Kub,Company_2K12_Kub,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
@@ -95,8 +74,6 @@
 45474,00000000-0000-0000-0300-000027040000,Collection[8],Descriptor_Company_ASLAV_C,Company_ASLAV_C,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
 45479,00000000-0000-0000-0300-000028040000,Collection[9],Descriptor_Company_ASLAV_PC_ANZ,Company_ASLAV_PC_ANZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
 45483,00000000-0000-0000-0300-000029040000,Collection[8],Descriptor_Company_ASLAV_S_ANZ,Company_ASLAV_S_ANZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
-45488,00000000-0000-0000-0300-00002a040000,Collection[8],Descriptor_Company_ASU_85,Company_ASU_85,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
-45493,00000000-0000-0000-0300-00002b040000,Collection[8],Descriptor_Company_ASU_85M,Company_ASU_85M,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 45498,00000000-0000-0000-0300-00002c040000,Collection[9],Descriptor_Company_ATGM_Milan_F1,Company_ATGM_Milan_F1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1
 45504,00000000-0000-0000-0300-00002d040000,Collection[9],Descriptor_Company_ATGM_Milan_F2,Company_ATGM_Milan_F2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1
 45510,00000000-0000-0000-0300-00002e040000,Collection[9],Descriptor_Company_ATGM_Milan_F2A,Company_ATGM_Milan_F2A,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1
@@ -116,11 +93,9 @@
 45570,00000000-0003-0000-0300-0000e9030000,Collection[9],Descriptor_Company_Amfibiebil_TRANS,Company_Amfibiebil_TRANS,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
 45573,00000000-0000-0000-0300-00003a040000,Collection[9],Descriptor_Company_Assault_Engineers,Company_Assault_Engineers,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1
 45579,00000000-0000-0000-0300-00003b040000,Collection[8],Descriptor_Company_AufkPz_BRM1,Company_AufkPz_BRM1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
-45584,00000000-0000-0000-0300-00003c040000,Collection[8],Descriptor_Company_AufklFz_UAZ,Company_AufklFz_UAZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 45587,00000000-0000-0000-0300-00003d040000,Collection[8],Descriptor_Company_AufklFz_UAZ_KPV,Company_AufklFz_UAZ_KPV,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 45591,00000000-000b-0000-0300-0000e8030000,Collection[9],Descriptor_Company_B10_UNITA_SA,Company_B10_UNITA_SA,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1
 45597,00000000-0001-0000-0300-0000e8030000,Collection[8],Descriptor_Company_BAL_SSM,Company_BAL_SSM,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
-45602,00000000-0000-0000-0300-00003e040000,Collection[8],Descriptor_Company_BJ212_type56_CHI,Company_BJ212_type56_CHI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 45606,00000000-0000-0000-0300-00003f040000,Collection[8],Descriptor_Company_BM21_GRAD,Company_BM21_GRAD,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 45610,00000000-0001-0000-0300-0000e9030000,Collection[8],Descriptor_Company_BM27_RDA,Company_BM27_RDA,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 45614,00000000-0000-0000-0300-000040040000,Collection[8],Descriptor_Company_BM27_Uragan,Company_BM27_Uragan,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
@@ -147,13 +122,9 @@
 45704,00000000-0000-0000-0300-000051040000,Collection[9],Descriptor_Company_BMP2D,Company_BMP2D,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 45708,00000000-0007-0000-0300-0000ec030000,Collection[9],Descriptor_Company_BMP2_Fin,Company_BMP2_Fin,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
 45712,00000000-0000-0000-0300-000052040000,Collection[9],Descriptor_Company_BMP2_obr_1986,Company_BMP2_obr_1986,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
-45716,00000000-0000-0000-0300-000053040000,Collection[9],Descriptor_Company_BMP3,Company_BMP3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
-45720,00000000-0000-0000-0300-000054040000,Collection[8],Descriptor_Company_BMPT,Company_BMPT,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 45726,00000000-0000-0000-0300-000055040000,Collection[9],Descriptor_Company_BMP_1_NK,Company_BMP_1_NK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
 45730,00000000-0000-0000-0300-000056040000,Collection[8],Descriptor_Company_BM_21_NK,Company_BM_21_NK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
-45734,00000000-0000-0000-0300-000057040000,Collection[8],Descriptor_Company_BM_24M,Company_BM_24M,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 45738,00000000-0000-0000-0300-000058040000,Collection[8],Descriptor_Company_BM_24_CHI,Company_BM_24_CHI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
-45742,00000000-0000-0000-0300-000059040000,Collection[8],Descriptor_Company_BM_24_NK,Company_BM_24_NK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 45765,00000000-0007-0000-0300-0000ed030000,Collection[8],Descriptor_Company_BOV_1_POLO,Company_BOV_1_POLO,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,2
 45770,00000000-0007-0000-0300-0000ee030000,Collection[8],Descriptor_Company_BOV_3,Company_BOV_3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,2
 45775,00000000-0007-0000-0300-0000ef030000,Collection[8],Descriptor_Company_BOV_30,Company_BOV_30,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,2
@@ -162,13 +133,9 @@
 45789,00000000-0001-0000-0300-0000ea030000,Collection[8],Descriptor_Company_BPzV_Snezka,Company_BPzV_Snezka,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
 45793,00000000-0000-0000-0300-00005a040000,Collection[8],Descriptor_Company_BRDM1,Company_BRDM1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
 45797,00000000-0000-0000-0300-00005b040000,Collection[8],Descriptor_Company_BRDM1_HJ73,Company_BRDM1_HJ73,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
-45802,00000000-0000-0000-0300-00005c040000,Collection[8],Descriptor_Company_BRDM2,Company_BRDM2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
 45806,00000000-0000-0000-0300-00005d040000,Collection[8],Descriptor_Company_BRDM2U,Company_BRDM2U,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
 45809,00000000-0000-0000-0300-00005e040000,Collection[8],Descriptor_Company_BRDM2U_Tuto,Company_BRDM2U_Tuto,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
-45812,00000000-0000-0000-0300-00005f040000,Collection[8],Descriptor_Company_BRDM2_KonkM,Company_BRDM2_KonkM,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
-45816,00000000-0000-0000-0300-000060040000,Collection[8],Descriptor_Company_BRDM2_Konkurs,Company_BRDM2_Konkurs,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
 45820,00000000-0000-0000-0300-000061040000,Collection[8],Descriptor_Company_BRDM2_Konkurs_M,Company_BRDM2_Konkurs_M,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
-45824,00000000-0000-0000-0300-000062040000,Collection[8],Descriptor_Company_BRDM2_Malyutka_M,Company_BRDM2_Malyutka_M,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
 45828,00000000-0000-0000-0300-000063040000,Collection[8],Descriptor_Company_BRDM2_Malyutka_P,Company_BRDM2_Malyutka_P,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
 45832,00000000-0007-0000-0300-0000f2030000,Collection[8],Descriptor_Company_BRDM2_Yug,Company_BRDM2_Yug,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
 45836,00000000-0000-0000-0300-000064040000,Collection[8],Descriptor_Company_BRDM3_URSS,Company_BRDM3_URSS,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
@@ -176,9 +143,6 @@
 45844,00000000-0000-0000-0300-000066040000,Collection[8],Descriptor_Company_BRDM_2_Malyutka_NK,Company_BRDM_2_Malyutka_NK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
 45848,00000000-0007-0000-0300-0000f3030000,Collection[8],Descriptor_Company_BRDM_2_Malyutka_P,Company_BRDM_2_Malyutka_P,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
 45853,00000000-0000-0000-0300-000067040000,Collection[8],Descriptor_Company_BRDM_2_NK,Company_BRDM_2_NK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
-45857,00000000-0000-0000-0300-000068040000,Collection[8],Descriptor_Company_BRDM_2_STRELA_1_NK,Company_BRDM_2_STRELA_1_NK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
-45861,00000000-0000-0000-0300-000069040000,Collection[8],Descriptor_Company_BRDM_2_Strela_1,Company_BRDM_2_Strela_1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
-45865,00000000-0000-0000-0300-00006a040000,Collection[8],Descriptor_Company_BRDM_2_Strela_1M,Company_BRDM_2_Strela_1M,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
 45869,00000000-0000-0000-0300-00006b040000,Collection[8],Descriptor_Company_BRM1,Company_BRM1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
 45873,00000000-0000-0000-0300-00006c040000,Collection[8],Descriptor_Company_BRM1K,Company_BRM1K,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
 45877,00000000-0000-0000-0300-00006d040000,Collection[9],Descriptor_Company_BTR40,Company_BTR40,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
@@ -313,7 +277,6 @@
 46517,00000000-0004-0000-0300-0000ee030000,Collection[8],Descriptor_Company_Centurion_Mk7_NL,Company_Centurion_Mk7_NL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 46522,00000000-0000-0000-0300-0000d0040000,Collection[8],Descriptor_Company_Centurion_Mk_11,Company_Centurion_Mk_11,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 46527,00000000-0000-0000-0300-0000d1040000,Collection[8],Descriptor_Company_Centurion_Mk_5,Company_Centurion_Mk_5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
-46532,00000000-0000-0000-0300-0000d2040000,Collection[8],Descriptor_Company_Centurion_Mk_51_ANZ,Company_Centurion_Mk_51_ANZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 46537,00000000-0000-0000-0300-0000d3040000,Collection[8],Descriptor_Company_Centurion_Mk_5_2,Company_Centurion_Mk_5_2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 46542,00000000-0000-0000-0300-0000d4040000,Collection[8],Descriptor_Company_Centurion_Mk_5_2_DK,Company_Centurion_Mk_5_2_DK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 46547,00000000-0000-0000-0300-0000d5040000,Collection[8],Descriptor_Company_Centurion_Mk_6,Company_Centurion_Mk_6,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
@@ -421,7 +384,6 @@
 47048,00000000-0000-0000-0300-00001f050000,Collection[9],Descriptor_Company_Fliegerfaust,Company_Fliegerfaust,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1
 47054,00000000-0000-0000-0300-000020050000,Collection[9],Descriptor_Company_Fliegerfaust_2,Company_Fliegerfaust_2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1
 47060,00000000-0001-0000-0300-0000ee030000,Collection[9],Descriptor_Company_Formoza,Company_Formoza,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1
-47066,00000000-0000-0000-0300-000021050000,Collection[8],Descriptor_Company_Fuchs_Fufu_RFA,Company_Fuchs_Fufu_RFA,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
 47070,00000000-0000-0000-0300-000022050000,Collection[8],Descriptor_Company_Fuhrungs_UAZ,Company_Fuhrungs_UAZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 47073,00000000-0000-0000-0300-000023050000,Collection[9],Descriptor_Company_Fusiliers,Company_Fusiliers,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1
 47079,00000000-000b-0000-0300-0000fc030000,Collection[8],Descriptor_Company_G6_Renoster_SA,Company_G6_Renoster_SA,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
@@ -604,7 +566,6 @@
 47971,00000000-0000-0000-0300-000099050000,Collection[9],Descriptor_Company_LVTP_7A1,Company_LVTP_7A1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
 47976,00000000-0000-0000-0300-00009a050000,Collection[9],Descriptor_Company_LVTP_7_ROK,Company_LVTP_7_ROK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
 47980,00000000-0000-0000-0300-00009b050000,Collection[9],Descriptor_Company_LVT_4_ROK,Company_LVT_4_ROK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
-47986,00000000-0005-0000-0300-000003040000,Collection[8],Descriptor_Company_Laish,Company_Laish,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
 47991,00000000-0000-0000-0300-00009c050000,Collection[8],Descriptor_Company_Land_Rover_S3,Company_Land_Rover_S3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 47994,00000000-0000-0000-0300-00009d050000,Collection[8],Descriptor_Company_Land_Rover_S3_UK,Company_Land_Rover_S3_UK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 47997,00000000-0000-0000-0300-00009e050000,Collection[8],Descriptor_Company_Leclerc_FR,Company_Leclerc_FR,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
@@ -637,7 +598,6 @@
 48145,00000000-0000-0000-0300-0000ae050000,Collection[8],Descriptor_Company_Leopard_AS1_1976_ANZ,Company_Leopard_AS1_1976_ANZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 48150,00000000-0000-0000-0300-0000af050000,Collection[8],Descriptor_Company_Leopard_AS1_1982_ANZ,Company_Leopard_AS1_1982_ANZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 48155,00000000-0000-0000-0300-0000b0050000,Collection[8],Descriptor_Company_Leopard_AS1_1985_ANZ,Company_Leopard_AS1_1985_ANZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
-48160,00000000-0000-0000-0300-0000b1050000,Collection[8],Descriptor_Company_Leopard_C1,Company_Leopard_C1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 48165,00000000-0000-0000-0300-0000b2050000,Collection[9],Descriptor_Company_Livgarde,Company_Livgarde,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1
 48171,00000000-0003-0000-0300-0000fc030000,Collection[9],Descriptor_Company_Livgarde_90,Company_Livgarde_90,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1
 48177,00000000-000b-0000-0300-0000fe030000,Collection[8],Descriptor_Company_Loggim_SA,Company_Loggim_SA,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
@@ -665,12 +625,6 @@
 48282,00000000-0000-0000-0300-0000c2050000,Collection[8],Descriptor_Company_M109_A6_Paladin,Company_M109_A6_Paladin,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 48287,00000000-0000-0000-0300-0000c3050000,Collection[8],Descriptor_Company_M109_Howitzer,Company_M109_Howitzer,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 48292,00000000-0000-0000-0300-0000c4050000,Collection[8],Descriptor_Company_M110A2_Howitzer,Company_M110A2_Howitzer,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
-48296,00000000-0000-0000-0300-0000c5050000,Collection[8],Descriptor_Company_M110A2_JAP,Company_M110A2_JAP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
-48300,00000000-0004-0000-0300-000005040000,Collection[8],Descriptor_Company_M110A2_NL,Company_M110A2_NL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
-48304,00000000-0000-0000-0300-0000c6050000,Collection[8],Descriptor_Company_M110A2_RA,Company_M110A2_RA,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
-48308,00000000-0000-0000-0300-0000c7050000,Collection[8],Descriptor_Company_M110_Howitzer,Company_M110_Howitzer,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
-48312,00000000-0000-0000-0300-0000c8050000,Collection[8],Descriptor_Company_M110_JAP,Company_M110_JAP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
-48316,00000000-0000-0000-0300-0000c9050000,Collection[8],Descriptor_Company_M110_RA,Company_M110_RA,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 48320,00000000-0000-0000-0300-0000ca050000,Collection[9],Descriptor_Company_M113,Company_M113,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
 48324,00000000-0000-0000-0300-0000cb050000,Collection[9],Descriptor_Company_M113A1_3030_ANZ,Company_M113A1_3030_ANZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
 48328,00000000-0000-0000-0300-0000cc050000,Collection[9],Descriptor_Company_M113A1_3050_ANZ,Company_M113A1_3050_ANZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
@@ -702,7 +656,6 @@
 48445,00000000-0000-0000-0300-0000e1050000,Collection[8],Descriptor_Company_M132,Company_M132,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
 48449,00000000-0000-0000-0300-0000e2050000,Collection[8],Descriptor_Company_M150_I_TOW,Company_M150_I_TOW,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
 48453,00000000-0000-0000-0300-0000e3050000,Collection[8],Descriptor_Company_M150_TOW,Company_M150_TOW,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
-48457,00000000-0000-0000-0300-0000e4050000,Collection[8],Descriptor_Company_M151A1_CP,Company_M151A1_CP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 48460,00000000-0000-0000-0300-0000e5050000,Collection[8],Descriptor_Company_M151A1_MUTT,Company_M151A1_MUTT,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 48463,00000000-0000-0000-0300-0000e6050000,Collection[8],Descriptor_Company_M151A1_Scout,Company_M151A1_Scout,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 48467,00000000-0000-0000-0300-0000e7050000,Collection[8],Descriptor_Company_M151A2_FAV,Company_M151A2_FAV,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
@@ -736,10 +689,8 @@
 48604,00000000-0005-0000-0300-000004040000,Collection[9],Descriptor_Company_M325_NumNum,Company_M325_NumNum,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,2
 48607,00000000-0005-0000-0300-000005040000,Collection[8],Descriptor_Company_M325_Patrol,Company_M325_Patrol,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 48613,00000000-0005-0000-0300-000006040000,Collection[8],Descriptor_Company_M325_Pikud,Company_M325_Pikud,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
-48616,00000000-0000-0000-0300-0000ff050000,Collection[8],Descriptor_Company_M35_Cargo,Company_M35_Cargo,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,2
 48619,00000000-0000-0000-0300-000000060000,Collection[9],Descriptor_Company_M35_Truck,Company_M35_Truck,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,2
 48622,00000000-0000-0000-0300-000001060000,Collection[8],Descriptor_Company_M36_ROK,Company_M36_ROK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
-48626,00000000-0000-0000-0300-000002060000,Collection[8],Descriptor_Company_M38A1CND3,Company_M38A1CND3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 48629,00000000-0000-0000-0300-000003060000,Collection[8],Descriptor_Company_M38_106mm,Company_M38_106mm,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 48633,00000000-0000-0000-0300-000004060000,Collection[8],Descriptor_Company_M3A1_Bradley_CFV,Company_M3A1_Bradley_CFV,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 48638,00000000-0000-0000-0300-000005060000,Collection[8],Descriptor_Company_M3A3_Bradley_US,Company_M3A3_Bradley_US,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
@@ -749,7 +700,6 @@
 48658,00000000-0000-0000-0300-000009060000,Collection[8],Descriptor_Company_M41_DK,Company_M41_DK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 48663,00000000-0000-0000-0300-00000a060000,Collection[8],Descriptor_Company_M41_JAP,Company_M41_JAP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 48668,00000000-0000-0000-0300-00000b060000,Collection[8],Descriptor_Company_M42A1_Duster,Company_M42A1_Duster,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
-48672,00000000-0000-0000-0300-00000c060000,Collection[8],Descriptor_Company_M42_Duster_JAP,Company_M42_Duster_JAP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 48676,00000000-0007-0000-0300-000016040000,Collection[8],Descriptor_Company_M47_Paton,Company_M47_Paton,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 48681,00000000-0000-0000-0300-00000d060000,Collection[8],Descriptor_Company_M48A1_Patton,Company_M48A1_Patton,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 48686,00000000-0000-0000-0300-00000e060000,Collection[8],Descriptor_Company_M48A3K_ROK,Company_M48A3K_ROK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
@@ -767,9 +717,6 @@
 48748,00000000-0000-0000-0300-00001a060000,Collection[8],Descriptor_Company_M551_TTS,Company_M551_TTS,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
 48753,00000000-0000-0000-0300-00001b060000,Collection[8],Descriptor_Company_M55_ROK,Company_M55_ROK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 48757,00000000-0000-0000-0300-00001c060000,Collection[8],Descriptor_Company_M577,Company_M577,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
-48760,00000000-0000-0000-0300-00001d060000,Collection[8],Descriptor_Company_M577A1_ANZ,Company_M577A1_ANZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
-48763,00000000-0000-0000-0300-00001e060000,Collection[8],Descriptor_Company_M577G,Company_M577G,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
-48766,00000000-0000-0000-0300-00001f060000,Collection[8],Descriptor_Company_M577_kmdpvgn,Company_M577_kmdpvgn,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
 48769,00000000-0000-0000-0300-000020060000,Collection[8],Descriptor_Company_M60A1_AOS_Patton,Company_M60A1_AOS_Patton,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 48774,00000000-0000-0000-0300-000021060000,Collection[8],Descriptor_Company_M60A1_ERA_US,Company_M60A1_ERA_US,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 48780,00000000-0000-0000-0300-000022060000,Collection[8],Descriptor_Company_M60A1_Patton,Company_M60A1_Patton,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
@@ -1228,8 +1175,6 @@
 51024,00000000-0000-0000-0300-000021070000,Collection[8],Descriptor_Company_Su_100_NK,Company_Su_100_NK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 51028,00000000-0000-0000-0300-000022070000,Collection[8],Descriptor_Company_Su_76m_NK,Company_Su_76m_NK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 51032,00000000-0007-0000-0300-000051040000,Collection[8],Descriptor_Company_T34B,Company_T34B,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
-51037,00000000-0000-0000-0300-000023070000,Collection[8],Descriptor_Company_T34_85M,Company_T34_85M,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
-51042,00000000-0000-0000-0300-000024070000,Collection[8],Descriptor_Company_T34_85M1,Company_T34_85M1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 51047,00000000-0000-0000-0300-000025070000,Collection[8],Descriptor_Company_T55,Company_T55,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 51051,00000000-0000-0000-0300-000026070000,Collection[8],Descriptor_Company_T55A,Company_T55A,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 51056,00000000-0007-0000-0300-000052040000,Collection[8],Descriptor_Company_T55AH_Igman,Company_T55AH_Igman,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
@@ -1302,7 +1247,6 @@
 51402,00000000-0007-0000-0300-000060040000,Collection[9],Descriptor_Company_TAB71,Company_TAB71,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
 51406,00000000-0007-0000-0300-000061040000,Collection[8],Descriptor_Company_TELAK_91,Company_TELAK_91,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 51410,00000000-0000-0000-0300-000053070000,Collection[8],Descriptor_Company_TO55,Company_TO55,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
-51414,00000000-0000-0000-0300-000054070000,Collection[8],Descriptor_Company_TO55_NK,Company_TO55_NK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 51418,00000000-0000-0000-0300-000055070000,Collection[8],Descriptor_Company_TO62,Company_TO62,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 51422,00000000-0000-0000-0300-000056070000,Collection[8],Descriptor_Company_TOPAS_R2M,Company_TOPAS_R2M,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
 51426,00000000-0000-0000-0300-000057070000,Collection[8],Descriptor_Company_TOS1_Buratino,Company_TOS1_Buratino,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
@@ -1388,13 +1332,11 @@
 51793,00000000-0000-0000-0300-00009a070000,Collection[8],Descriptor_Company_Type_87_Guntank_JAP,Company_Type_87_Guntank_JAP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 51797,00000000-0000-0000-0300-00009b070000,Collection[8],Descriptor_Company_Type_87_JAP,Company_Type_87_JAP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 51801,00000000-0000-0000-0300-00009c070000,Collection[8],Descriptor_Company_Type_88_CHI,Company_Type_88_CHI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
-51806,00000000-0001-0000-0300-00001b040000,Collection[8],Descriptor_Company_Type_88_SSM,Company_Type_88_SSM,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 51811,00000000-0000-0000-0300-00009d070000,Collection[9],Descriptor_Company_Type_89_JAP,Company_Type_89_JAP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 51816,00000000-0000-0000-0300-00009e070000,Collection[8],Descriptor_Company_Type_90_Kyu_maru_JAP,Company_Type_90_Kyu_maru_JAP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 51821,00000000-0005-0000-0300-00002b040000,Collection[9],Descriptor_Company_Tzanhanim,Company_Tzanhanim,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1
 51827,00000000-0005-0000-0300-00002c040000,Collection[9],Descriptor_Company_Tzanhanim_95,Company_Tzanhanim_95,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1
 51833,00000000-0000-0000-0300-00009f070000,Collection[8],Descriptor_Company_UAZ_469,Company_UAZ_469,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
-51836,00000000-0000-0000-0300-0000a0070000,Collection[8],Descriptor_Company_UAZ_469A_vz59,Company_UAZ_469A_vz59,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 51840,00000000-0000-0000-0300-0000a1070000,Collection[8],Descriptor_Company_UAZ_469B,Company_UAZ_469B,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 51843,00000000-0000-0000-0300-0000a2070000,Collection[8],Descriptor_Company_UAZ_469_AGS17,Company_UAZ_469_AGS17,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
 51847,00000000-0000-0000-0300-0000a3070000,Collection[8],Descriptor_Company_UAZ_469_Faktoria,Company_UAZ_469_Faktoria,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,3
@@ -1507,11 +1449,8 @@
 52343,00000000-0000-0000-0300-0000ec070000,Collection[8],Descriptor_Company_ZLF_92,Company_ZLF_92,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
 52348,00000000-0000-0000-0300-0000ed070000,Collection[9],Descriptor_Company_ZSD_89_II_CHI,Company_ZSD_89_II_CHI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
 52352,00000000-0000-0000-0300-0000ee070000,Collection[8],Descriptor_Company_ZSU_23_4M2_Afgantsev,Company_ZSU_23_4M2_Afgantsev,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
-52356,00000000-0000-0000-0300-0000ef070000,Collection[8],Descriptor_Company_ZSU_23_4M_Biryusa,Company_ZSU_23_4M_Biryusa,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 52360,00000000-0000-0000-0300-0000f0070000,Collection[8],Descriptor_Company_ZSU_23_4V1_Shilka,Company_ZSU_23_4V1_Shilka,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
-52364,00000000-0000-0000-0300-0000f1070000,Collection[8],Descriptor_Company_ZSU_23_4_Shilka_NK,Company_ZSU_23_4_Shilka_NK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 52368,00000000-0000-0000-0300-0000f2070000,Collection[8],Descriptor_Company_ZSU_57_2,Company_ZSU_57_2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
-52372,00000000-0000-0000-0300-0000f3070000,Collection[8],Descriptor_Company_ZSU_57_2_NK,Company_ZSU_57_2_NK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 52376,00000000-0008-0000-0300-0000ea030000,Collection[8],Descriptor_Company_ZTZ_88A,Company_ZTZ_88A,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 52382,00000000-0005-0000-0300-00002d040000,Collection[9],Descriptor_Company_Zachlam,Company_Zachlam,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 52386,00000000-0001-0000-0300-00001f040000,Collection[9],Descriptor_Company_Zaloznici,Company_Zaloznici,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1
@@ -1571,7 +1510,6 @@
 52613,00000000-0000-0000-0300-000024080000,Collection[8],Descriptor_Company_urss_T55,Company_urss_T55,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5
 52617,00000000-0000-0000-0300-000025080000,Collection[9],Descriptor_Company_Barge_OTAN,Company_Barge_OTAN,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7
 52621,00000000-0000-0000-0300-000026080000,Collection[9],Descriptor_Company_Barge_PACT,Company_Barge_PACT,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,8
-52642,00000000-0000-0000-0300-000027080000,Collection[8],Descriptor_Company_Chamsuri,Company_Chamsuri,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,9
 52670,00000000-0000-0000-0300-000028080000,Collection[8],Descriptor_Company_Combat_Boat,Company_Combat_Boat,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,9
 52681,00000000-0000-0000-0300-000029080000,Collection[8],Descriptor_Company_Donghae,Company_Donghae,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,9
 52689,00000000-0000-0000-0300-00002a080000,Collection[8],Descriptor_Company_Fremantle,Company_Fremantle,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,9
@@ -1614,7 +1552,6 @@
 53018,00000000-0000-0000-0300-00004d080000,Collection[8],Descriptor_Company_AH1F_ROK,Company_AH1F_ROK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53024,00000000-0000-0000-0300-00004e080000,Collection[8],Descriptor_Company_AH1J_ROK,Company_AH1J_ROK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53031,00000000-0000-0000-0300-00004f080000,Collection[8],Descriptor_Company_AH1J_US,Company_AH1J_US,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-53039,00000000-0000-0000-0300-000050080000,Collection[8],Descriptor_Company_AH1S_Cobra,Company_AH1S_Cobra,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53045,00000000-0000-0000-0300-000051080000,Collection[8],Descriptor_Company_AH1T_ROK,Company_AH1T_ROK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53051,00000000-0000-0000-0300-000052080000,Collection[8],Descriptor_Company_AH1T_Sea_Cobra_IP,Company_AH1T_Sea_Cobra_IP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53058,00000000-0000-0000-0300-000053080000,Collection[8],Descriptor_Company_AH1W_Super_Cobra,Company_AH1W_Super_Cobra,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
@@ -1623,14 +1560,10 @@
 53081,00000000-0004-0000-0300-000027040000,Collection[8],Descriptor_Company_AH64_Escort_NL,Company_AH64_Escort_NL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53087,00000000-0004-0000-0300-000028040000,Collection[8],Descriptor_Company_AH64_NL,Company_AH64_NL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53093,00000000-0000-0000-0300-000056080000,Collection[8],Descriptor_Company_AH6C_Little_Bird_US,Company_AH6C_Little_Bird_US,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-53097,00000000-0000-0000-0300-000057080000,Collection[8],Descriptor_Company_AH_1F_JAP,Company_AH_1F_JAP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-53103,00000000-0000-0000-0300-000058080000,Collection[8],Descriptor_Company_AS_332F_Super_Puma,Company_AS_332F_Super_Puma,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53108,00000000-0003-0000-0300-00001b040000,Collection[8],Descriptor_Company_AS332_NOR,Company_AS332_NOR,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53111,00000000-0000-0000-0300-000059080000,Collection[8],Descriptor_Company_AS350B_A22_Squirrel_ANZ,Company_AS350B_A22_Squirrel_ANZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53115,00000000-0003-0000-0300-00001c040000,Collection[8],Descriptor_Company_AS350_NOR,Company_AS350_NOR,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53118,00000000-0004-0000-0300-000029040000,Collection[8],Descriptor_Company_AS532_Cougar_NL,Company_AS532_Cougar_NL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-53121,00000000-0000-0000-0300-00005a080000,Collection[9],Descriptor_Company_AS565_Panther_FR,Company_AS565_Panther_FR,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-53125,00000000-0000-0000-0300-00005b080000,Collection[8],Descriptor_Company_AS56MBPanther,Company_AS56MBPanther,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53130,00000000-0000-0000-0300-00005c080000,Collection[8],Descriptor_Company_Alouette_III,Company_Alouette_III,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53133,00000000-000b-0000-0300-00002c040000,Collection[8],Descriptor_Company_Alouette_III_CMD_SA,Company_Alouette_III_CMD_SA,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53136,00000000-0007-0000-0300-000077040000,Collection[8],Descriptor_Company_Alouette_III_Fin,Company_Alouette_III_Fin,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
@@ -1660,7 +1593,6 @@
 53236,00000000-0000-0000-0300-000068080000,Collection[9],Descriptor_Company_CH147_CAN,Company_CH147_CAN,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53240,00000000-0000-0000-0300-000069080000,Collection[9],Descriptor_Company_CH46,Company_CH46,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53244,00000000-0000-0000-0300-00006a080000,Collection[9],Descriptor_Company_CH46_Phrog_US,Company_CH46_Phrog_US,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-53248,00000000-0000-0000-0300-00006b080000,Collection[8],Descriptor_Company_CH47_Cargo_ANZ,Company_CH47_Cargo_ANZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53251,00000000-0000-0000-0300-00006c080000,Collection[9],Descriptor_Company_CH47_Chinook,Company_CH47_Chinook,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53255,00000000-0000-0000-0300-00006d080000,Collection[9],Descriptor_Company_CH47_Chinook_ANZ,Company_CH47_Chinook_ANZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53259,00000000-0000-0000-0300-00006e080000,Collection[8],Descriptor_Company_CH47_Super_Chinook,Company_CH47_Super_Chinook,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
@@ -1690,11 +1622,8 @@
 53357,00000000-0000-0000-0300-000079080000,Collection[8],Descriptor_Company_Hkp_4A,Company_Hkp_4A,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53361,00000000-0000-0000-0300-00007a080000,Collection[8],Descriptor_Company_Hkp_6A,Company_Hkp_6A,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53364,00000000-0007-0000-0300-000083040000,Collection[8],Descriptor_Company_JetRanger,Company_JetRanger,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-53367,00000000-0000-0000-0300-00007b080000,Collection[9],Descriptor_Company_KHS_MI_8TV,Company_KHS_MI_8TV,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-53372,00000000-0000-0000-0300-00007c080000,Collection[8],Descriptor_Company_KHS_MI_8TVK,Company_KHS_MI_8TVK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53379,00000000-0000-0000-0300-00007d080000,Collection[8],Descriptor_Company_KV_107IIA_JAP,Company_KV_107IIA_JAP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53382,00000000-0000-0000-0300-00007e080000,Collection[9],Descriptor_Company_KV_107_JAP,Company_KV_107_JAP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-53386,00000000-0000-0000-0300-00007f080000,Collection[8],Descriptor_Company_Ka_27PLP,Company_Ka_27PLP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53392,00000000-0000-0000-0300-000080080000,Collection[9],Descriptor_Company_Ka_29TB,Company_Ka_29TB,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53398,00000000-0000-0000-0300-000081080000,Collection[8],Descriptor_Company_Ka_50,Company_Ka_50,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53405,00000000-0000-0000-0300-000082080000,Collection[8],Descriptor_Company_Ka_52_URSS,Company_Ka_52_URSS,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
@@ -1707,7 +1636,6 @@
 53440,00000000-0000-0000-0300-000087080000,Collection[8],Descriptor_Company_Lynx_AH7_20mm,Company_Lynx_AH7_20mm,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53444,00000000-0000-0000-0300-000088080000,Collection[8],Descriptor_Company_Lynx_AH7_TOW,Company_Lynx_AH7_TOW,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53448,00000000-0000-0000-0300-000089080000,Collection[9],Descriptor_Company_Lynx_DK,Company_Lynx_DK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-53452,00000000-0000-0000-0300-00008a080000,Collection[8],Descriptor_Company_Lynx_HAS2,Company_Lynx_HAS2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53457,00000000-0000-0000-0300-00008b080000,Collection[8],Descriptor_Company_MD_500M,Company_MD_500M,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53460,00000000-0000-0000-0300-00008c080000,Collection[8],Descriptor_Company_MD_500_I_Tow_ROK,Company_MD_500_I_Tow_ROK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53464,00000000-0000-0000-0300-00008d080000,Collection[8],Descriptor_Company_MD_500_LG_NK,Company_MD_500_LG_NK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
@@ -1751,7 +1679,6 @@
 53664,00000000-0001-0000-0300-000023040000,Collection[8],Descriptor_Company_MI_35P_RDA_AA,Company_MI_35P_RDA_AA,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53671,00000000-0000-0000-0300-0000b0080000,Collection[8],Descriptor_Company_MI_4,Company_MI_4,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53677,00000000-0000-0000-0300-0000b1080000,Collection[8],Descriptor_Company_MI_4A,Company_MI_4A,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-53683,00000000-0000-0000-0300-0000b2080000,Collection[8],Descriptor_Company_MI_4AV,Company_MI_4AV,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53690,00000000-0000-0000-0300-0000b3080000,Collection[8],Descriptor_Company_MI_4AVPK,Company_MI_4AVPK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53694,00000000-0001-0000-0300-000024040000,Collection[8],Descriptor_Company_MI_4_CZ_HQ,Company_MI_4_CZ_HQ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53698,00000000-0001-0000-0300-000025040000,Collection[8],Descriptor_Company_MI_4_CZ_LOG,Company_MI_4_CZ_LOG,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
@@ -1810,11 +1737,9 @@
 53918,00000000-0000-0000-0300-0000de080000,Collection[8],Descriptor_Company_SA_341F_Gazelle_Celtic,Company_SA_341F_Gazelle_Celtic,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53923,00000000-0000-0000-0300-0000df080000,Collection[8],Descriptor_Company_SA_342_HJ8_CHI,Company_SA_342_HJ8_CHI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53928,00000000-0000-0000-0300-0000e0080000,Collection[8],Descriptor_Company_SH_60B_Sea_Hawk,Company_SH_60B_Sea_Hawk,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-53933,00000000-0000-0000-0300-0000e1080000,Collection[8],Descriptor_Company_SH_60F_Sea_Hawk,Company_SH_60F_Sea_Hawk,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53938,00000000-0005-0000-0300-000034040000,Collection[8],Descriptor_Company_Sayfan,Company_Sayfan,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53941,00000000-0005-0000-0300-000035040000,Collection[8],Descriptor_Company_Sayfan_Pikud,Company_Sayfan_Pikud,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53944,00000000-0007-0000-0300-000089040000,Collection[9],Descriptor_Company_SuperPuma,Company_SuperPuma,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-53948,00000000-0000-0000-0300-0000e2080000,Collection[8],Descriptor_Company_SuperPuma_Plan,Company_SuperPuma_Plan,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53953,00000000-0000-0000-0300-0000e3080000,Collection[8],Descriptor_Company_THS_MI_35P,Company_THS_MI_35P,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53960,00000000-0000-0000-0300-0000e4080000,Collection[8],Descriptor_Company_Tigre_HAD_FR,Company_Tigre_HAD_FR,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 53967,00000000-0000-0000-0300-0000e5080000,Collection[8],Descriptor_Company_Tigre_HAP_FR,Company_Tigre_HAP_FR,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
@@ -1846,7 +1771,6 @@
 54086,00000000-0005-0000-0300-000039040000,Collection[9],Descriptor_Company_Yasur_Nimrod,Company_Yasur_Nimrod,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54090,00000000-0000-0000-0300-0000f8080000,Collection[8],Descriptor_Company_Z5_Assault_CHI,Company_Z5_Assault_CHI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54096,00000000-0000-0000-0300-0000f9080000,Collection[9],Descriptor_Company_Z5_CHI,Company_Z5_CHI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-54100,00000000-0000-0000-0300-0000fa080000,Collection[8],Descriptor_Company_Z9C_CHI,Company_Z9C_CHI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54105,00000000-0000-0000-0300-0000fb080000,Collection[9],Descriptor_Company_Z9_CHI,Company_Z9_CHI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54109,00000000-0000-0000-0300-0000fc080000,Collection[8],Descriptor_Company_cz_MI2,Company_cz_MI2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54112,00000000-0000-0000-0300-0000fd080000,Collection[9],Descriptor_Company_cz_MI_8T,Company_cz_MI_8T,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
@@ -1861,8 +1785,6 @@
 54187,00000000-0005-0000-0300-00003a040000,Collection[9],Descriptor_Company_A4N_Ayit,Company_A4N_Ayit,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54194,00000000-0000-0000-0300-000006090000,Collection[9],Descriptor_Company_A4_Skyhawk_II,Company_A4_Skyhawk_II,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54201,00000000-0000-0000-0300-000007090000,Collection[9],Descriptor_Company_A5I_Nanchang_NK,Company_A5I_Nanchang_NK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-54209,00000000-0000-0000-0300-000008090000,Collection[9],Descriptor_Company_A5_Nanchang_NK,Company_A5_Nanchang_NK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-54217,00000000-0000-0000-0300-000009090000,Collection[9],Descriptor_Company_A6F_Intruder,Company_A6F_Intruder,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54223,00000000-0000-0000-0300-00000a090000,Collection[9],Descriptor_Company_A6_Intruder,Company_A6_Intruder,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54229,00000000-0000-0000-0300-00000b090000,Collection[9],Descriptor_Company_A7_Corsair_II,Company_A7_Corsair_II,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54236,00000000-0000-0000-0300-00000c090000,Collection[9],Descriptor_Company_AV8B_Harrier_II,Company_AV8B_Harrier_II,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
@@ -1874,7 +1796,6 @@
 54283,00000000-0000-0000-0300-000011090000,Collection[9],Descriptor_Company_BAC_Strikemaster_ANZ,Company_BAC_Strikemaster_ANZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54290,00000000-000b-0000-0300-000036040000,Collection[9],Descriptor_Company_Buccaneer_S_50_SA,Company_Buccaneer_S_50_SA,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54296,00000000-0000-0000-0300-000012090000,Collection[9],Descriptor_Company_CF18,Company_CF18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-54305,00000000-0000-0000-0300-000013090000,Collection[9],Descriptor_Company_CF18_ASW,Company_CF18_ASW,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54313,00000000-0000-0000-0300-000014090000,Collection[9],Descriptor_Company_CF18_Hornet,Company_CF18_Hornet,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54321,00000000-0000-0000-0300-000015090000,Collection[9],Descriptor_Company_CF_101B_Voodoo,Company_CF_101B_Voodoo,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54327,00000000-0003-0000-0300-000020040000,Collection[9],Descriptor_Company_CF_104_DAN,Company_CF_104_DAN,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
@@ -1897,16 +1818,11 @@
 54448,00000000-0000-0000-0300-00001d090000,Collection[9],Descriptor_Company_Eurofighter_Typhoon_UK,Company_Eurofighter_Typhoon_UK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54456,00000000-0003-0000-0300-000022040000,Collection[9],Descriptor_Company_F100D_DAN,Company_F100D_DAN,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54463,00000000-0004-0000-0300-00002f040000,Collection[9],Descriptor_Company_F104G_NL,Company_F104G_NL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-54470,00000000-0000-0000-0300-00001e090000,Collection[9],Descriptor_Company_F104G_Starfighter,Company_F104G_Starfighter,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54478,00000000-0000-0000-0300-00001f090000,Collection[9],Descriptor_Company_F104J_Ryu_JAP,Company_F104J_Ryu_JAP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-54485,00000000-0000-0000-0300-000020090000,Collection[9],Descriptor_Company_F104_Starfighter,Company_F104_Starfighter,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54492,00000000-0000-0000-0300-000021090000,Collection[9],Descriptor_Company_F111Cs_ANZ,Company_F111Cs_ANZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54498,00000000-0000-0000-0300-000022090000,Collection[9],Descriptor_Company_F111F_Aardvark,Company_F111F_Aardvark,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-54504,00000000-0000-0000-0300-000023090000,Collection[9],Descriptor_Company_F111G_ANZ,Company_F111G_ANZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54510,00000000-0000-0000-0300-000024090000,Collection[9],Descriptor_Company_F111_Aardvark,Company_F111_Aardvark,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54516,00000000-0000-0000-0300-000025090000,Collection[9],Descriptor_Company_F117_Nighthawk,Company_F117_Nighthawk,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-54521,00000000-0000-0000-0300-000026090000,Collection[9],Descriptor_Company_F14_Tomcat,Company_F14_Tomcat,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-54530,00000000-0002-0000-0300-0000f2030000,Collection[9],Descriptor_Company_F14_Tomcat_Army,Company_F14_Tomcat_Army,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54538,00000000-0005-0000-0300-00003b040000,Collection[9],Descriptor_Company_F15A_Baz,Company_F15A_Baz,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54546,00000000-0005-0000-0300-00003c040000,Collection[9],Descriptor_Company_F15C_Akef,Company_F15C_Akef,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54554,00000000-0000-0000-0300-000027090000,Collection[9],Descriptor_Company_F15C_Eagle,Company_F15C_Eagle,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
@@ -1957,7 +1873,6 @@
 54898,00000000-0000-0000-0300-000043090000,Collection[9],Descriptor_Company_F86F_ROK,Company_F86F_ROK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54905,00000000-0000-0000-0300-000044090000,Collection[9],Descriptor_Company_FA18A_Hornet_ANZ,Company_FA18A_Hornet_ANZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54913,00000000-0000-0000-0300-000045090000,Collection[9],Descriptor_Company_FA18C_Hornet,Company_FA18C_Hornet,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-54921,00000000-0000-0000-0300-000046090000,Collection[9],Descriptor_Company_FA18E_Super_Hornet_US,Company_FA18E_Super_Hornet_US,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54929,00000000-0000-0000-0300-000047090000,Collection[9],Descriptor_Company_FA18_Hornet,Company_FA18_Hornet,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54937,00000000-0003-0000-0300-000027040000,Collection[9],Descriptor_Company_Grippen,Company_Grippen,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 54945,00000000-0002-0000-0300-0000f3030000,Collection[9],Descriptor_Company_H5_NK,Company_H5_NK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
@@ -1982,7 +1897,6 @@
 55089,00000000-0000-0000-0300-000052090000,Collection[9],Descriptor_Company_J7H_CHI,Company_J7H_CHI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55097,00000000-0000-0000-0300-000053090000,Collection[9],Descriptor_Company_JH7A_Xian_CHI,Company_JH7A_Xian_CHI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55105,00000000-0002-0000-0300-0000f4030000,Collection[9],Descriptor_Company_JH7_CHI,Company_JH7_CHI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-55113,00000000-0000-0000-0300-000054090000,Collection[9],Descriptor_Company_JH7_Xian_CHI,Company_JH7_Xian_CHI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55121,00000000-0000-0000-0300-000055090000,Collection[9],Descriptor_Company_Jaguar_A,Company_Jaguar_A,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55128,00000000-0000-0000-0300-000056090000,Collection[9],Descriptor_Company_Jaguar_GR1,Company_Jaguar_GR1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55135,00000000-0000-0000-0300-000057090000,Collection[9],Descriptor_Company_Jaguar_GR1A,Company_Jaguar_GR1A,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
@@ -2034,7 +1948,6 @@
 55466,00000000-0000-0000-0300-000077090000,Collection[9],Descriptor_Company_Mig27,Company_Mig27,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55473,00000000-0000-0000-0300-000078090000,Collection[9],Descriptor_Company_Mig27K,Company_Mig27K,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55480,00000000-0000-0000-0300-000079090000,Collection[9],Descriptor_Company_Mig27M,Company_Mig27M,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-55487,00000000-0000-0000-0300-00007a090000,Collection[9],Descriptor_Company_Mig29K_Fulcrum,Company_Mig29K_Fulcrum,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55495,00000000-0000-0000-0300-00007b090000,Collection[9],Descriptor_Company_Mig29S_Fulcrum,Company_Mig29S_Fulcrum,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55503,00000000-0007-0000-0300-00009c040000,Collection[9],Descriptor_Company_Mig29_913S,Company_Mig29_913S,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55510,00000000-0001-0000-0300-00002b040000,Collection[9],Descriptor_Company_Mig29_CZ,Company_Mig29_CZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
@@ -2045,11 +1958,8 @@
 55548,00000000-0000-0000-0300-00007f090000,Collection[9],Descriptor_Company_Mig31_Foxhound,Company_Mig31_Foxhound,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55555,00000000-0000-0000-0300-000080090000,Collection[9],Descriptor_Company_Mirage_2000,Company_Mirage_2000,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55563,00000000-0000-0000-0300-000081090000,Collection[9],Descriptor_Company_Mirage_5,Company_Mirage_5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-55571,00000000-0000-0000-0300-000082090000,Collection[9],Descriptor_Company_Mirage_F1,Company_Mirage_F1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55579,00000000-000b-0000-0300-00003f040000,Collection[9],Descriptor_Company_Mirage_F1AZ_SA,Company_Mirage_F1AZ_SA,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-55587,00000000-0000-0000-0300-000083090000,Collection[9],Descriptor_Company_Mirage_F1CT,Company_Mirage_F1CT,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55595,00000000-000b-0000-0300-000040040000,Collection[9],Descriptor_Company_Mirage_F1CZ_SA,Company_Mirage_F1CZ_SA,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-55602,00000000-0000-0000-0300-000084090000,Collection[9],Descriptor_Company_Mirage_F1_200,Company_Mirage_F1_200,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55610,00000000-0000-0000-0300-000085090000,Collection[9],Descriptor_Company_Mirage_III,Company_Mirage_III,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55618,00000000-0005-0000-0300-000046040000,Collection[9],Descriptor_Company_Mirage_IIICJ,Company_Mirage_IIICJ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55625,00000000-000b-0000-0300-000042040000,Collection[9],Descriptor_Company_Mirage_IIIEZ_SA,Company_Mirage_IIIEZ_SA,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
@@ -2065,7 +1975,6 @@
 55699,00000000-0000-0000-0300-000088090000,Collection[9],Descriptor_Company_Northrop_Freedom_Fighter,Company_Northrop_Freedom_Fighter,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55706,00000000-0000-0000-0300-000089090000,Collection[9],Descriptor_Company_Q5IA_Nanchang_CHI,Company_Q5IA_Nanchang_CHI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55714,00000000-0000-0000-0300-00008a090000,Collection[9],Descriptor_Company_Q5I_Nanchang_CHI,Company_Q5I_Nanchang_CHI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-55722,00000000-0000-0000-0300-00008b090000,Collection[9],Descriptor_Company_Q5_Marine_CHI,Company_Q5_Marine_CHI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55729,00000000-0000-0000-0300-00008c090000,Collection[9],Descriptor_Company_Q5_Nanchang_CHI,Company_Q5_Nanchang_CHI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55736,00000000-0000-0000-0300-00008d090000,Collection[9],Descriptor_Company_ROK_KF16,Company_ROK_KF16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55744,00000000-0000-0000-0300-00008e090000,Collection[9],Descriptor_Company_Rafale_FR,Company_Rafale_FR,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
@@ -2092,7 +2001,6 @@
 55901,00000000-0000-0000-0300-0000a3090000,Collection[9],Descriptor_Company_Su25T_Frogfoot,Company_Su25T_Frogfoot,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55909,00000000-0000-0000-0300-0000a4090000,Collection[9],Descriptor_Company_Su25_CZ,Company_Su25_CZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55917,00000000-0000-0000-0300-0000a5090000,Collection[9],Descriptor_Company_Su25_Frogfoot,Company_Su25_Frogfoot,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-55925,00000000-0000-0000-0300-0000a6090000,Collection[9],Descriptor_Company_Su27K_Flanker,Company_Su27K_Flanker,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55933,00000000-0000-0000-0300-0000a7090000,Collection[9],Descriptor_Company_Su27M_Flanker,Company_Su27M_Flanker,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55941,00000000-0000-0000-0300-0000a8090000,Collection[9],Descriptor_Company_Su27SK_CHI,Company_Su27SK_CHI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55949,00000000-0000-0000-0300-0000a9090000,Collection[9],Descriptor_Company_Su27_Flanker,Company_Su27_Flanker,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
@@ -2102,11 +2010,8 @@
 55979,00000000-0000-0000-0300-0000ac090000,Collection[9],Descriptor_Company_Su7_B,Company_Su7_B,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55986,00000000-0000-0000-0300-0000ad090000,Collection[9],Descriptor_Company_Su7_BKL,Company_Su7_BKL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 55993,00000000-0000-0000-0300-0000ae090000,Collection[9],Descriptor_Company_Su7_Fitter_A,Company_Su7_Fitter_A,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-56000,00000000-0000-0000-0300-0000af090000,Collection[9],Descriptor_Company_Super_Etendard,Company_Super_Etendard,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-56006,00000000-0000-0000-0300-0000b0090000,Collection[9],Descriptor_Company_Super_Etendard_SEM,Company_Super_Etendard_SEM,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 56013,00000000-0000-0000-0300-0000b1090000,Collection[9],Descriptor_Company_Tornado_ADV,Company_Tornado_ADV,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 56021,00000000-0000-0000-0300-0000b2090000,Collection[9],Descriptor_Company_Tornado_ADV_F3,Company_Tornado_ADV_F3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-56029,00000000-0000-0000-0300-0000b3090000,Collection[9],Descriptor_Company_Tornado_GR1B,Company_Tornado_GR1B,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 56037,00000000-0000-0000-0300-0000b4090000,Collection[9],Descriptor_Company_Tornado_IDS,Company_Tornado_IDS,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 56045,00000000-000b-0000-0300-000044040000,Collection[9],Descriptor_Company_Vampire_FB_52_SA,Company_Vampire_FB_52_SA,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 56052,00000000-0000-0000-0300-0000b5090000,Collection[9],Descriptor_Company_Yak38M,Company_Yak38M,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
@@ -2115,10 +2020,8 @@
 56072,00000000-0000-0000-0300-0000b8090000,Collection[9],Descriptor_Company_dan_Canadair_Starfighter,Company_dan_Canadair_Starfighter,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 56079,00000000-0000-0000-0300-0000b9090000,Collection[9],Descriptor_Company_dan_F16,Company_dan_F16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 56087,00000000-0000-0000-0300-0000ba090000,Collection[9],Descriptor_Company_nor_F16,Company_nor_F16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-56095,00000000-0000-0000-0300-0000bb090000,Collection[9],Descriptor_Company_nor_F16_Block15,Company_nor_F16_Block15,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 56103,00000000-0000-0000-0300-0000bc090000,Collection[9],Descriptor_Company_rfa_Tornado_ECR,Company_rfa_Tornado_ECR,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 56110,00000000-0000-0000-0300-0000bd090000,Collection[9],Descriptor_Company_rfa_Tornado_IDS,Company_rfa_Tornado_IDS,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
-56118,00000000-0000-0000-0300-0000be090000,Collection[9],Descriptor_Company_rfa_Tornado_Marine,Company_rfa_Tornado_Marine,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6
 56131,00000000-0000-0000-0300-0000bf090000,Collection[7],Descriptor_Company_FOB_ANZ,Company_FOB_ANZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
 56134,00000000-0000-0000-0300-0000c0090000,Collection[7],Descriptor_Company_FOB_CAN,Company_FOB_CAN,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
 56137,00000000-0000-0000-0300-0000c1090000,Collection[7],Descriptor_Company_FOB_CHINE,Company_FOB_CHINE,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
