@@ -1,6 +1,6 @@
 # Sandbox Mod Files
 
-This repository contains all of the actual game files for the Sandbox Mod. **This should almost never be manually downloaded, to install the mod, use the [Sandbox Mod Installer](https://github.com/TheWRDNoob/Sandbox-Mod-Installer "Sandbox Mod Installer").**
+### This repository contains all of the actual game files for the Sandbox Mod. **This should almost never be manually downloaded, to install the mod, use the [Sandbox Mod Installer](https://github.com/TheWRDNoob/Sandbox-Mod-Installer "Sandbox Mod Installer").**
 
 ## File Organization
 + version.txt: States current mod version

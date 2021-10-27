@@ -31,7 +31,7 @@
           <BackgroundImage Path="Extra\Backgrounds\su27.jpg" />
         </ProgressScreen>
         <InstallCompletedScreen>
-          <Header Text="Installation Finished"></Header>
+          <Header Text="Uninstall Finished"></Header>
           <Description Text="Sandbox has finished uninstalling" />
           <BackgroundImage Path="Extra\Backgrounds\rafale.jpg" />
         </InstallCompletedScreen>

@@ -1,0 +1,1170 @@
+<!-- THIS IS A COMMENT -->
+<wargamepatch>
+	<!-- Changes number of deck cards to 60 for all units. -->
+	<ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_YUG</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+<ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_Varsovie</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_UK</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_SWE</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_SA</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_ROK</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_RFA</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_RDA</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_POL</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_OTAN</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_NOR</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_NK</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_JAP</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_ISR</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_HOL</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_FR</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_FIN</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_CZ</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_CHINE</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_CAN</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="RemoveFOB">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_ANZ</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+
+
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_F14_Tomcat</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_Lynx_HAS2</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_AS565_Panther_FR</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_F104G_Starfighter</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_M577A1_ANZ</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_M38A1CND3</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_M151A1_CP</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_Fuchs_Fufu_RFA</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_ASU_85</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_BRDM2</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_BRDM2_Konkurs</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_BRDM2_KonkM</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_BJ212_type56_CHI</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_AufklFz_UAZ</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_MI_4AV</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_M35_Cargo</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_M577G</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_M577_kmdpvgn</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_CH47_Cargo_ANZ</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_Centurion_Mk_51_ANZ</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_Leopard_C1</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_M110A2_JAP</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_M110A2_NL</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_M110A2_RA</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_M110_Howitzer</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_M110_JAP</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_M110_RA</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_ZSU_23_4M_Biryusa</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_ZSU_23_4_Shilka_NK</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_ZSU_57_2_NK</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_BRDM_2_STRELA_1_NK</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_BRDM_2_Strela_1</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_BRDM_2_Strela_1M</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_BM_24M</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_BM_24_NK</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_ASU_85M</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_T34_85M</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_T34_85M1</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_TO55_NK</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_UAZ_469A_vz59</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_Laish</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_M42_Duster_JAP</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_AH_1F_JAP</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_AH1S_Cobra</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_KHS_MI_8TV</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_KHS_MI_8TVK</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_BRDM2_Malyutka_M</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_BMPT</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_BMP3</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_Type_88_SSM</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_Chamsuri</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_F14_Tomcat_Army</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_FA18E_Super_Hornet_US</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_Super_Etendard</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_Super_Etendard_SEM</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_Tornado_GR1B</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_nor_F16_Block15</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_rfa_Tornado_Marine</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_F111G_ANZ</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_F104_Starfighter</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_CF18_ASW</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_A6F_Intruder</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_SH_60F_Sea_Hawk</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_AS56MBPanther</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_AS_332F_Super_Puma</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_Su27K_Flanker</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_Q5_Marine_CHI</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_Mig29K_Fulcrum</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_JH7_Xian_CHI</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_A5_Nanchang_NK</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_Z9C_CHI</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_SuperPuma_Plan</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_Ka_27PLP</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+    </ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_Mirage_F1</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+    </ndfpatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_Mirage_F1CT</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+    </ndfpatch>    
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="RemoveUnits">
+        <matchconditions>
+			<matchcondition type="property" property="ClassNameForDebug">Unit_Mirage_F1_200</matchcondition>
+		</matchconditions>
+		<changes>
+			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="1" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="2" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="3" type="Boolean">False</change>
+			<change operation="set" property="ShowInMenu" key="4" type="Boolean">False</change>
+		</changes>
+	</ndfpatch>
+</wargamepatch>

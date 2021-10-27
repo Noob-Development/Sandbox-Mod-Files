@@ -25,7 +25,7 @@
       ]
     },
     "Naval Maps Unlocked": {
-      "desc": "",
+      "desc": "Make naval maps playable with land units.",
       "paths": [
         "NavalMapUnlock.xml"
       ]
@@ -48,11 +48,12 @@
         "CoalitionCompositions(NatoOnly).xml",
         "FlagReferences.xml",
         "FlagSize.xml",
-        "CoalitionBonuses.xml"
+        "CoalitionBonuses.xml",
+        "HideDeletedUnits.xml"
       ]
     },
     "Every Deck Gets 900 Activation Points By Default": {
-      "desc": "",
+      "desc": "Gives all you decks 900 Activation points. (Make the greatest battle ever seen!)",
       "paths": [
         "DefaultActivationPoints.xml"
       ]
@@ -82,13 +83,13 @@
       ]
     },
     "Every Unit has 9999 Availibility": {
-      "desc": "",
+      "desc": "All of your units will have 9999 Availibility, sometimes it will also give you 9999000 somehow?",
       "paths": [
         "UnitAvailability.xml"
       ]
     },
     "No Units are Prototypes": {
-      "desc": "",
+      "desc": "Self explanatory, setes all prototype units to normal units.",
       "paths": [
         "NoPrototypes.xml"
       ]
@@ -96,19 +97,19 @@
   },
   "Gameplay": {
     "FOBs Have Unlimited Supplies": {
-      "desc": "",
+      "desc": "All FOBs, Logistic Trucks and helicopters has unlimited supplies. (Almost...)",
       "paths": [
         "InfiniteFobSupply.xml"
       ]
     },
     "Ground/Sea Units Reload and Refuel Faster": {
-      "desc": "",
+      "desc": "Also self explanatory, all you Ground and Naval units resupplies and refuels faster.",
       "paths": [
         "SupplySpeedGround.xml"
       ]
     },
     "Planes Reload and Refuel Faster": {
-      "desc": "",
+      "desc": "Same as the above, all planes resupplies and refuels faster.",
       "paths": [
         "SupplySpeedAirport.xml"
       ]
@@ -144,7 +145,7 @@
       ]
     },
     "Naval Supply Ships Speed Buff": {
-      "desc": "",
+      "desc": "Makes the resupplie ship sail faster.",
       "paths": [
         "MunaLcuSpeed.xml"
       ]
