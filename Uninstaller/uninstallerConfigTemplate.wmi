@@ -12,7 +12,7 @@
     <UI>
       <Screens>
         <WelcomeScreen>
-          <Header Text="W:RD Sandbox Mod Installer" />
+          <Header Text="W:RD Sandbox Mod Uninstaller" />
           <Description Text="This is the uninstaller for The Sandbox Mod %mod_version%. A free mod for EUGEN SYSTEMS' Wargame: Red Dragon full release version (%game_version%). &#xD;&#xA;&#xD;&#xA;NOTE: If you select &quot;All units to Bluefor&quot;, all of your Redfor decks will be deleted at game launch! Select backup profile or copy your Wargame profile manually to save these decks. Also, set your lobby Opposition as Blufor so that it is Blue vs Blue; no Redfor decks besides the default will work.&#xD;&#xA;&#xD;&#xA;For further information, go to the modding section of the Wargame Forums, and for questions, PM the W:AB Noob on the Wargame Forums.&#xD;&#xA;(Mod released August, 2014)&#xD;&#xA;Click the &quot;Next&quot; button to continue." />
           <BackgroundImage Path="Extra\Backgrounds\f18.jpg" />
         </WelcomeScreen>
