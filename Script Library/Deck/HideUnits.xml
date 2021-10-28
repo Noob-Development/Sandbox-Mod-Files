@@ -1,4 +1,4 @@
-
+<wargamepatch>
     <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="Remove Building_FOB_CAN">
         <matchconditions>
 			<matchcondition type="property" property="ClassNameForDebug">Building_FOB_CAN</matchcondition>
@@ -591,3 +591,4 @@
 			<change operation="set" property="ShowInMenu" key="0" type="Boolean">False</change>
 		</changes>
 	</ndfpatch>
+</wargamepatch>
