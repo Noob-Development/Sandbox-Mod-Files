@@ -7,7 +7,7 @@ import GetHiddenUnits
 import pandas as pd
 import json
 
-exclude_list = [] # Put units you want to remove here
+exclude_list = ["Unit_KHS_MI_8TV", "Unit_AH1S_Cobra", "Unit_AH_1F_JAP", "Unit_M42_Duster_JAP", "Unit_M35_Cargo", "Unit_MI_4AV", "Unit_UAZ_469A_vz59", "Unit_TO55_NK", "Unit_T34_85M1", "Unit_T34_85M" , "Unit_ASU_85M", "Unit_BM_24M", "Unit_BRDM_2_Strela_1M", "Unit_M110_JAP"] # Put units you want to remove here
 exclude_list += GetHiddenUnits.get_hidden_units()
 only_1_fob = True
 
