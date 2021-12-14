@@ -1,25 +1,25 @@
 {
   "Lobby": {
     "More Starting Point Options": {
-      "desc": "",
+      "desc": "This adds more starting points options to the lobby settings.",
       "paths": [
         "MapPoints.xml"
       ]
     },
     "More Income Options": {
-      "desc": "",
+      "desc": "This adds more income options to the lobby settings.",
       "paths": [
         "IncreasedIncome.xml"
       ]
     },
     "More Time Options": {
-      "desc": "",
+      "desc": "Unlucks more time options for the length of the game.",
       "paths": [
         "TimeOptions.xml"
       ]
     },
     "10 vs 10 Maps Unlocked": {
-      "desc": "",
+      "desc": "This is going to unluck the 10vs10 maps in normal lobbys",
       "paths": [
         "10Vs10Unlock.xml"
       ]
@@ -59,7 +59,7 @@
       ]
     },
     "No Countries/Coalitions Get Activation Bonuses": {
-      "desc": "",
+      "desc": "Non of the Countries/Coalitions get extra deplyment points.",
       "paths": [
         "NoDeckApBonus.xml"
       ]
@@ -77,7 +77,7 @@
       ]
     },
     "99 Deck Cards per Unit": {
-      "desc": "",
+      "desc": "All units will get 99 availibility cards",
       "paths": [
         "MaxPacks.xml"
       ]
