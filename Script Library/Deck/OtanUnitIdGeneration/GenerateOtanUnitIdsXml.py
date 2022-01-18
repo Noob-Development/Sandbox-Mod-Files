@@ -67,3 +67,16 @@ for unit in unit_list['excluded']['units']:
 
 with open('HideUnits.xml', 'w+') as out:
     out.write(total_excluded_string)
+
+
+# Print excluded units list with wargame names
+names_dict = {}
+with open('unites.csv', encoding='utf-8') as file:
+    for line in file.readlines():
+        hash, text = line.split(', ', 1)
+        names_dict[hash] = text[:-1]
+print('EXLCUDED UNITS:')
+for unit in unit_list['excluded']['units']:
+    tunite = unit_list['tunite']
+    hash = tunite.loc[tunite['ClassNameForDebug'] == unit]['NameInMenuToken'].iloc[0]
+    print(f'{unit}: {names_dict.get(hash, "NONE")}')

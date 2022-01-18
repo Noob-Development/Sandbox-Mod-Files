@@ -33,6 +33,7 @@ def get_unit_list():
 
     final_data['num_excluded'] = len(final_data['excluded']['buildings']) + len(final_data['excluded']['units'])
     final_data['num_included'] = len(final_data['included']['buildings']) + len(final_data['included']['units'])
+    final_data['tunite'] = df
     return final_data
 
 if __name__ == '__main__':
