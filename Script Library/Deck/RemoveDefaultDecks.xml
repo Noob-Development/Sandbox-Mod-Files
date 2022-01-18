@@ -1,0 +1,12 @@
+<!-- THIS IS A COMMENT -->
+<wargamepatch>
+	<ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TShowRoomNdfDeckManager" name="Remove Decks">
+        <matchconditions>
+            <matchcondition type="property" property="__order">first</matchcondition>
+        </matchconditions>
+		<changes>
+            <change operation="clear" type="list" property="DecksByNation" key="0"/>
+            <change operation="clear" type="list" property="DecksByNation" key="1"/>
+        </changes>
+	</ndfpatch>
+</wargamepatch>
