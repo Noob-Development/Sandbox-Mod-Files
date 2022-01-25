@@ -78,13 +78,13 @@
       ]
     },
     "99 Deck Cards per Unit": {
-      "desc": "All units will get 99 availibility cards",
+      "desc": "All units will get 99 availibility cards.",
       "paths": [
         "MaxPacks.xml"
       ]
     },
     "Every Unit has 9999 Availibility": {
-      "desc": "All of your units will have 9999 Availibility, sometimes it will also give you 9999000 somehow?",
+      "desc": "All of your units will have 9999 Availibility.",
       "paths": [
         "UnitAvailability.xml"
       ]
