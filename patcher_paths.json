@@ -7,7 +7,7 @@
       ]
     },
     "More Income Options": {
-      "desc": "This adds more income options to the lobby settings.",
+      "desc": "This removes all the negative income options from the lobby settings.",
       "paths": [
         "IncreasedIncome.xml"
       ]
