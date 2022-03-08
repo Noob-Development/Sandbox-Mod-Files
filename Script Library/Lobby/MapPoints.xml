@@ -11,37 +11,12 @@
 			<change property="ArgentInitialTable" operation="clear" />
 			<change property="ArgentInitialTable" type="UInt32" operation="append">1000</change>
 			<change property="ArgentInitialTable" type="UInt32" operation="append">2000</change>
-			<change property="ArgentInitialTable" type="UInt32" operation="append">3000</change>
 			<change property="ArgentInitialTable" type="UInt32" operation="append">4000</change>
 			<change property="ArgentInitialTable" type="UInt32" operation="append">6000</change>
 			<change property="ArgentInitialTable" type="UInt32" operation="append">8000</change>
 			<change property="ArgentInitialTable" type="UInt32" operation="append">10000</change>
-			<change property="ArgentInitialTable" type="UInt32" operation="append">15000</change>
 			<change property="ArgentInitialTable" type="UInt32" operation="append">20000</change>
-			<change property="ArgentInitialTable" type="UInt32" operation="append">25000</change>
-			<change property="ArgentInitialTable" type="UInt32" operation="append">999998</change>
-		</changes>
-	</ndfpatch>
-	<ndfpatch ndf="pc\ndf\patchable\misc\globals.ndfbin" table="TModernWarfareMultiMapInfo" name="regularMapLimit">
-		<!-- This changes the starting amount of points -->
-		<matchconditions>
-			<matchcondition type="property" property="NbMaxPlayers">8</matchcondition>
-			<!-- All playable maps except for 10vs10's have NbMaxPlayers of 8. -->
-		</matchconditions>
-		<changes>
-			<!-- The clear operation sets the list with no values, and append creates more. I cleared it and built it up from scratch again because some maps have 5 values, while other have 6. -->
-			<change property="DefaultDestructionScoreToReach" operation="clear" />
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">1000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">2000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">3000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">4000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">6000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">8000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">10000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">15000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">20000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">25000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">999998</change>
+			<change property="ArgentInitialTable" type="UInt32" operation="append">40000</change>
 		</changes>
 	</ndfpatch>
 	<ndfpatch ndf="pc\ndf\patchable\misc\globals.ndfbin" table="TModernWarfareMultiMapInfo" name="tenMapPoints">
@@ -55,37 +30,12 @@
 			<change property="ArgentInitialTable" operation="clear" />
 			<change property="ArgentInitialTable" type="UInt32" operation="append">1000</change>
 			<change property="ArgentInitialTable" type="UInt32" operation="append">2000</change>
-			<change property="ArgentInitialTable" type="UInt32" operation="append">3000</change>
 			<change property="ArgentInitialTable" type="UInt32" operation="append">4000</change>
 			<change property="ArgentInitialTable" type="UInt32" operation="append">6000</change>
 			<change property="ArgentInitialTable" type="UInt32" operation="append">8000</change>
 			<change property="ArgentInitialTable" type="UInt32" operation="append">10000</change>
-			<change property="ArgentInitialTable" type="UInt32" operation="append">15000</change>
 			<change property="ArgentInitialTable" type="UInt32" operation="append">20000</change>
-			<change property="ArgentInitialTable" type="UInt32" operation="append">25000</change>
-			<change property="ArgentInitialTable" type="UInt32" operation="append">999998</change>
-		</changes>
-	</ndfpatch>
-	<ndfpatch ndf="pc\ndf\patchable\misc\globals.ndfbin" table="TModernWarfareMultiMapInfo" name="tenMapLimit">
-		<!-- This changes the starting amount of points -->
-		<matchconditions>
-			<matchcondition type="property" property="NbMaxPlayers">20</matchcondition>
-			<!-- All playable maps except for 10vs10's have NbMaxPlayers of 8. -->
-		</matchconditions>
-		<changes>
-			<!-- The clear operation sets the list with no values, and append creates more. I cleared it and built it up from scratch again because some maps have 5 values, while other have 6. -->
-			<change property="DefaultDestructionScoreToReach" operation="clear" />
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">1000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">2000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">3000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">4000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">6000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">8000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">10000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">15000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">20000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">25000</change>
-			<change property="DefaultDestructionScoreToReach" type="UInt32" operation="append">999998</change>
+			<change property="ArgentInitialTable" type="UInt32" operation="append">40000</change>
 		</changes>
 	</ndfpatch>
 </wargamepatch>
