@@ -49,7 +49,8 @@
         "FlagReferences.xml",
         "FlagSize.xml",
         "CoalitionBonuses.xml",
-        "HideUnits.xml"
+        "HideUnits.xml",
+        "RemoveDefaultDecks.xml"
       ]
     },
     "Every Deck Gets 900 Activation Points By Default": {
