@@ -12,4 +12,16 @@
 			<!-- Since there are no MatchConditions, this patch is applied to all units in the game. -->
 		</changes>
 	</ndfpatch>
+	<!-- Unit availibility for FOBs is stored in TUniteDescriptor and not in TUniteAuSolDescriptor this will make FOBs unlimited too. -->
+	<ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="fobunitAvail">
+	    <matchconditions>
+      		<matchcondition type="property" property="MaxDeployableAmount">1</matchcondition>
+    	</matchconditions>
+		<changes>
+			<!-- I have commented out changes to MaxDeployableAmount because it will make the AI also have infinite units. -->
+			<change operation="set" property="MaxDeployableAmount" key="0" type="Int32">9999</change>
+			<!-- Each key is number of units per veterancy. 0 = Rookie, 4 = Elite, etc. -->
+			<!-- Since there are no MatchConditions, this patch is applied to all units in the game. -->
+		</changes>
+	</ndfpatch>
 </wargamepatch>
