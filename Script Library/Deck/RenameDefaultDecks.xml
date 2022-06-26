@@ -1,6 +1,6 @@
 <!-- THIS IS A COMMENT -->
 2	<wargamepatch>
-3	<ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TShowRoomNdfDeckManager" name="Remove Decks">
+3	<ndfpatch ndf="pc\localisation\us\localisation\maps.dic" table="TShowRoomNdfDeckManager" name="Rename Decks">
 4	    <matchconditions>
 5	        <matchcondition type="property" property="__order">first</matchcondition>
 6	    </matchconditions>
