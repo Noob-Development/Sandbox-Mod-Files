@@ -13,9 +13,9 @@
 		</changes>
 	</ndfpatch>
 	<!-- Unit availibility for FOBs is stored in TUniteDescriptor and not in TUniteAuSolDescriptor this will make FOBs unlimited too. -->
-	<ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="fobunitAvail">
+	<ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="FOBunitAvail">
 	    <matchconditions>
-      		<matchcondition type="property" property="MaxDeployableAmount">1</matchcondition>
+      		<matchcondition type="property" property="Category">8</matchcondition>
     	</matchconditions>
 		<changes>
 			<!-- I have commented out changes to MaxDeployableAmount because it will make the AI also have infinite units. -->
