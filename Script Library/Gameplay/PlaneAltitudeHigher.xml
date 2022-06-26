@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- THIS IS A COMMENT -->
+<!-- All Altitudes are multiplied by 1.25. Value here = ingame-value * 52 -->
+<wargamepatch>
+  <!--<ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TMouvementHandlerAirplaneDescriptor" name="AllSpdAlt">
+    <changes>
+      <change operation="set" property="FlyingAltitude" type="Int32">???</change>
+    </changes>
+  </ndfpatch> -->
+  <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TMouvementHandlerAirplaneDescriptor" name="500Alt">
+    <matchconditions>
+      <matchcondition type="property" property="FlyingAltitude">26000</matchcondition>
+    </matchconditions>
+    <changes>
+      <change operation="set" property="FlyingAltitude" type="Int32">32500</change>
+    </changes>
+  </ndfpatch>
+  <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TMouvementHandlerAirplaneDescriptor" name="750Alt">
+    <matchconditions>
+      <matchcondition type="property" property="FlyingAltitude">39000</matchcondition>
+    </matchconditions>
+    <changes>
+      <change operation="set" property="FlyingAltitude" type="Int32">48750</change>
+    </changes>
+  </ndfpatch>
+  <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TMouvementHandlerAirplaneDescriptor" name="1250Alt">
+    <matchconditions>
+      <matchcondition type="property" property="FlyingAltitude">65000</matchcondition>
+    </matchconditions>
+    <changes>
+      <change operation="set" property="FlyingAltitude" type="Int32">81250</change>
+    </changes>
+  </ndfpatch>
+  <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TMouvementHandlerAirplaneDescriptor" name="1000Alt">
+    <matchconditions>
+      <matchcondition type="property" property="FlyingAltitude">52000</matchcondition>
+    </matchconditions>
+    <changes>
+      <change operation="set" property="FlyingAltitude" type="Int32">65000</change>
+    </changes>
+  </ndfpatch>
+  <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TMouvementHandlerAirplaneDescriptor" name="1500Alt">
+    <matchconditions>
+      <matchcondition type="property" property="FlyingAltitude">78000</matchcondition>
+    </matchconditions>
+    <changes>
+      <change operation="set" property="FlyingAltitude" type="Int32">97500</change>
+    </changes>
+  </ndfpatch>
+</wargamepatch>
