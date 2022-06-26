@@ -49,8 +49,7 @@
         "FlagReferences.xml",
         "FlagSize.xml",
         "CoalitionBonuses.xml",
-        "HideUnits.xml",
-        "RemoveDefaultDecks.xml"
+        "HideUnits.xml"
       ]
     },
     "Every Deck Gets 900 Activation Points By Default": {
@@ -98,7 +97,7 @@
   },
   "Gameplay": {
     "FOBs Have Unlimited Supplies": {
-      "desc": "All FOBs, Logistic Trucks and helicopters has unlimited supplies. (Almost...)",
+      "desc": "All FOBs, Logistic Trucks and helicopters has unlimited supplies.",
       "paths": [
         "InfiniteFobSupply.xml"
       ]
@@ -142,7 +141,13 @@
     "All Planes Fly Higher": {
       "desc": "This affects all units, not just player units.",
       "paths": [
-        "PlaneAltitude.xml"
+        "PlaneAltitudeHigher.xml"
+      ]
+    },
+    "All Planes Fly Lower": {
+      "desc": "This affects all units, not just player units.",
+      "paths": [
+        "PlaneAltitudeLower.xml"
       ]
     },
     "Naval Supply Ships Speed Buff": {
