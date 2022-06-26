@@ -1,7 +1,16 @@
 <!-- THIS IS A COMMENT -->
 <wargamepatch>
 	<!-- Changes number of deck cards to 60 for all units. -->
-	<ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="unitAvail">
+	<ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="DeckCardsUnits">
+		<changes>
+			<change operation="set" property="MaxPacks" type="UInt32">50</change>
+		</changes>
+	</ndfpatch>
+	<!-- deck cards for FOBs is stored in TUniteDescriptor and not in TUniteAuSolDescriptor this will make FOBs deck cards 60 too. -->
+	<ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteDescriptor" name="DeckCardsFOB">
+	    <matchconditions>
+      		<matchcondition type="property" property="Category">8</matchcondition>
+    	</matchconditions>
 		<changes>
 			<change operation="set" property="MaxPacks" type="UInt32">50</change>
 		</changes>
