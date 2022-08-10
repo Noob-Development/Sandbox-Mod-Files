@@ -3,11 +3,11 @@
 	<ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TUniteAuSolDescriptor" name="unitAvail">
 		<changes>
 			<!-- I have commented out changes to MaxDeployableAmount because it will make the AI also have infinite units. -->
-			<change operation="set" property="MaxDeployableAmount" key="0" type="Int32">9999</change>
-			<change operation="set" property="MaxDeployableAmount" key="1" type="Int32">9999</change>
-			<change operation="set" property="MaxDeployableAmount" key="2" type="Int32">9999</change>
-			<change operation="set" property="MaxDeployableAmount" key="3" type="Int32">9999</change>
-			<change operation="set" property="MaxDeployableAmount" key="4" type="Int32">9999</change>
+			<change operation="set" property="MaxDeployableAmount" key="0" type="Int32">50</change>
+			<change operation="set" property="MaxDeployableAmount" key="1" type="Int32">50</change>
+			<change operation="set" property="MaxDeployableAmount" key="2" type="Int32">50</change>
+			<change operation="set" property="MaxDeployableAmount" key="3" type="Int32">50</change>
+			<change operation="set" property="MaxDeployableAmount" key="4" type="Int32">50</change>
 			<!-- Each key is number of units per veterancy. 0 = Rookie, 4 = Elite, etc. -->
 			<!-- Since there are no MatchConditions, this patch is applied to all units in the game. -->
 		</changes>

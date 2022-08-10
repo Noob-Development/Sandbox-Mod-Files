@@ -186,5 +186,19 @@
         "DisplayRealRanges.xml"
       ]
     }
+  },
+  "EXPERIMENTAL": {
+    "Every Unit has 9999 Availibility with AI only having 500": {
+      "desc": "EXPERIMENTAL MAY NOT WORK CORRECT",
+      "paths": [
+        "UnitAvailabilityAILIMIT9999.xml"
+      ]
+    },
+    "Every Unit has 100 Availibility with AI only having 50": {
+      "desc": "EXPERIMENTAL MAY NOT WORK CORRECT",
+      "paths": [
+        "UnitAvailabilityAILIMIT100.xml"
+      ]
+    }
   }
 }
