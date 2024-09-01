@@ -13,13 +13,13 @@
       ]
     },
     "More Time Options": {
-      "desc": "Unlucks more time options for the length of the game.",
+      "desc": "Unlocks more time options for the length of the game.",
       "paths": [
         "TimeOptions.xml"
       ]
     },
     "10 vs 10 Maps Unlocked": {
-      "desc": "This is going to unluck the 10vs10 maps in normal lobbys",
+      "desc": "This is going to unlucky the 10vs10 maps in normal lobbys",
       "paths": [
         "10Vs10Unlock.xml"
       ]
@@ -31,36 +31,21 @@
       ]
     },
     "Easy AI Gets No Bonuses": {
-      "desc": "AI difficulty in W:RD just means that harder AI get more starting points and income and more unit availibility. This makes Easy AI not have any bonuses at all.",
+      "desc": "AI difficulty in W:RD just means that harder AI get more starting points and income and more unit availability. This makes Easy AI not have any bonuses at all.",
       "paths": [
         "EasyAiNoBonus.xml"
       ]
     }
   },
   "Deck": {
-    "All Units and Nations Become Blufor, Remove Other Coalitions": {
-      "desc": "Moves all units and nations from Redfor to Bluefor. Removes all coalitions except Scandinavia and Eurocorps. Change lobby settings to be Blufor vs Blufor if enabling this.",
-      "paths": [
-        "Nationalite.xml",
-        "OtanUnitIds.xml",
-        "AllCountriesNato.xml",
-        "AllCountryArmoriesNato.xml",
-        "CoalitionCompositions(NatoOnly).xml",
-        "FlagReferences.xml",
-        "FlagSize.xml",
-        "CoalitionBonuses.xml",
-        "HideUnits.xml",
-        "RemoveDefaultDecks.xml"
-      ]
-    },
-    "Every Deck Gets 900 Activation Points By Default": {
+    "Every Deck Gets 900 Activation Points": {
       "desc": "Gives all you decks 900 Activation points. (Make the greatest battle ever seen!)",
       "paths": [
         "DefaultActivationPoints.xml"
       ]
     },
-    "No Countries/Coalitions Get Activation Bonuses": {
-      "desc": "Non of the Countries/Coalitions get extra deplyment points.",
+    "Noone Get Activation Bonuses": {
+      "desc": "Non of the Countries/Coalitions get extra deployment points.",
       "paths": [
         "NoDeckApBonus.xml"
       ]
@@ -77,14 +62,14 @@
         "NineSlotsPerCategory.xml"
       ]
     },
-    "99 Deck Cards per Unit": {
-      "desc": "All units will get 99 availibility cards.",
+    "Make all unit veterancy available": {
+      "desc": "Unlocks all veterancy options for all units.",
       "paths": [
         "MaxPacks.xml"
       ]
     },
     "Every Unit has 9999 Availibility": {
-      "desc": "All of your units will have 9999 Availibility.",
+      "desc": "All of your units will have 9999 Availability.",
       "paths": [
         "UnitAvailability.xml"
       ]
@@ -97,7 +82,7 @@
     }
   },
   "Gameplay": {
-    "FOBs Have Unlimited Supplies": {
+    "All Supply Units Have Unlimited Supplies": {
       "desc": "All FOBs, Logistic Trucks and helicopters has unlimited supplies. (Almost...)",
       "paths": [
         "InfiniteFobSupply.xml"
@@ -113,24 +98,6 @@
       "desc": "Same as the above, all planes resupplies and refuels faster.",
       "paths": [
         "SupplySpeedAirport.xml"
-      ]
-    },
-    "All Units Have Unlimited Fuel": {
-      "desc": "This affects all units, not just player units.",
-      "paths": [
-        "InfiniteFuel.xml"
-      ]
-    },
-    "All Units Have Unlimited Health": {
-      "desc": "This affects all units, not just player units.",
-      "paths": [
-        "InfiniteHealth.xml"
-      ]
-    },
-    "All Units Have Unlimited Ammo": {
-      "desc": "This affects all units, not just player units.",
-      "paths": [
-        "InfiniteAmmo.xml"
       ]
     },
     "All Units Have 1 Second Spawn Time": {
@@ -173,6 +140,24 @@
       "desc": "Divides all displayed ranges by 3.5 to reflect realistic values but does not effect gameplay",
       "paths": [
         "DisplayRealRanges.xml"
+      ]
+    },
+    "All Units Have Unlimited Fuel": {
+      "desc": "This affects all units, not just player units.",
+      "paths": [
+        "InfiniteFuel.xml"
+      ]
+    },
+    "All Units Have Unlimited Health": {
+      "desc": "This affects all units, not just player units.",
+      "paths": [
+        "InfiniteHealth.xml"
+      ]
+    },
+    "All Units Have Unlimited Ammo": {
+      "desc": "This affects all units, not just player units.",
+      "paths": [
+        "InfiniteAmmo.xml"
       ]
     }
   }
