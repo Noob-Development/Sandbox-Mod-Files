@@ -38,22 +38,7 @@
     }
   },
   "Deck": {
-    "All Units and Nations Become Blufor, Remove Other Coalitions": {
-      "desc": "Moves all units and nations from Redfor to Bluefor. Removes all coalitions except Scandinavia and Eurocorps. Change lobby settings to be Blufor vs Blufor if enabling this.",
-      "paths": [
-        "Nationalite.xml",
-        "OtanUnitIds.xml",
-        "AllCountriesNato.xml",
-        "AllCountryArmoriesNato.xml",
-        "CoalitionCompositions(NatoOnly).xml",
-        "FlagReferences.xml",
-        "FlagSize.xml",
-        "CoalitionBonuses.xml",
-        "HideUnits.xml",
-        "RemoveDefaultDecks.xml"
-      ]
-    },
-    "Every Deck Gets 900 Activation Points By Default": {
+    "Every Deck Gets 900 Activation Points": {
       "desc": "Gives all you decks 900 Activation points. (Make the greatest battle ever seen!)",
       "paths": [
         "DefaultActivationPoints.xml"
