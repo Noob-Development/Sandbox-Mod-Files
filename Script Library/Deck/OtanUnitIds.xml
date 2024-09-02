@@ -6,9 +6,10 @@
             <!-- Selects the last instance of TShowRoomDeckSerializer. (There is only 1 instance.) -->
         </matchconditions>
         <changes>
+            <!-- Clearing both lists out. -->
             <change property="OtanUnitIds" operation="clear" />
             <change property="PactUnitIds" operation="clear" />
-            <!-- Clearing both lists out. -->
+            <!-- Adding units in, max number is 2047 -->
             <change property="OtanUnitIds" operation="append" type="map">
                 <map>
                     <key type="UInt32">1</key>
