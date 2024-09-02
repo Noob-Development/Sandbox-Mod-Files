@@ -7,7 +7,7 @@
       ]
     },
     "More Income Options": {
-      "desc": "This removes all the negative income options from the lobby settings.",
+      "desc": "This removes all the reduced income options from the lobby settings to make larger income settings. Income settings are now +0%, +50%, +100%, +300%, +800%",
       "paths": [
         "IncreasedIncome.xml"
       ]
@@ -39,7 +39,7 @@
   },
   "Deck": {
     "Every Deck Gets 900 Activation Points": {
-      "desc": "Gives all you decks 900 Activation points. (Make the greatest battle ever seen!)",
+      "desc": "Gives all you decks 900 Activation points.",
       "paths": [
         "DefaultActivationPoints.xml"
       ]
@@ -83,19 +83,19 @@
   },
   "Gameplay": {
     "All Supply Units Have Unlimited Supplies": {
-      "desc": "All FOBs, Logistic Trucks and helicopters has unlimited supplies. (Almost...)",
+      "desc": "All FOBs, Logistic Trucks and helicopters has near-unlimited supplies.",
       "paths": [
         "InfiniteFobSupply.xml"
       ]
     },
     "Ground/Sea Units Reload and Refuel Faster": {
-      "desc": "Also self explanatory, all you Ground and Naval units resupplies and refuels faster.",
+      "desc": "All Ground and Naval units resupply and refuel faster.",
       "paths": [
         "SupplySpeedGround.xml"
       ]
     },
     "Planes Reload and Refuel Faster": {
-      "desc": "Same as the above, all planes resupplies and refuels faster.",
+      "desc": "All planes resupply and refuel faster.",
       "paths": [
         "SupplySpeedAirport.xml"
       ]
@@ -113,7 +113,7 @@
       ]
     },
     "Naval Supply Ships Speed Buff": {
-      "desc": "Makes the resupplie ship sail faster.",
+      "desc": "Makes the resupply ships (LCU 1610 and Muna) sail faster.",
       "paths": [
         "MunaLcuSpeed.xml"
       ]
