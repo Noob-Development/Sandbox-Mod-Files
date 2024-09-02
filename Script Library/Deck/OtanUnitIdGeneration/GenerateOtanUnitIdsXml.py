@@ -1,5 +1,7 @@
 """
-This is a simple Python script to help write the OtanUnitIds xml file. It expects a text file with all the ClassNameForDebug strings for every unit, which you can get by using powercrystals' Table Exporter.
+This is a simple Python script to help write the OtanUnitIdChanges.txt text file to paste into OtanUnitIds.xml file that the installer will use.
+It calls CreateUnitList to get a dictionary of which units to include, then writes the XML based on that.
+It also uses unites.csv which you can get by using powercrystals' Table Exporter to print in-game names of units that have been removed.
 """
 
 import CreateUnitList
@@ -37,10 +39,9 @@ for idx, unit in enumerate(unit_list['included']['units'], len(unit_list['includ
                 </map>
             </change>\n"""
 
+# =Writes OtanUnitIdChanges text file=
 with open('OtanUnitIdChanges.txt', 'w+') as out:
     out.write(total_included_string)
-
-
 
 total_excluded_string = ''
 
@@ -65,11 +66,12 @@ for unit in unit_list['excluded']['units']:
 		</changes>
 	</ndfpatch>'''
 
+# =Write HideUnits xml for logging purposes=
 with open('HideUnits.xml', 'w+') as out:
     out.write(total_excluded_string)
 
 
-# Print excluded units list with wargame names
+# =Print excluded units list with wargame names=
 names_dict = {}
 with open('unites.csv', encoding='utf-8') as file:
     for line in file.readlines():

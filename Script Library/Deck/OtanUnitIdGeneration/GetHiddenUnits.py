@@ -1,3 +1,7 @@
+"""
+Returns a list of units which are already hidden in their TUniteAuSolDescriptor
+"""
+
 import xml.etree.ElementTree as ET
 
 def get_hidden_units():
