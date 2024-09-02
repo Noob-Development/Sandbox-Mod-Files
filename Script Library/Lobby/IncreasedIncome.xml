@@ -5,10 +5,10 @@
 		</matchconditions>
 		<changes>
 			<!-- For 40% more income, type 140. So 900 = +800% income. You can not put 4 digits or more. -->
-			<change operation="set" property="IncomeMultiplierInPercent" key="1" type="UInt32">150</change>
-			<change operation="set" property="IncomeMultiplierInPercent" key="2" type="UInt32">200</change>
-			<change operation="set" property="IncomeMultiplierInPercent" key="3" type="UInt32">300</change>
-			<change operation="set" property="IncomeMultiplierInPercent" key="4" type="UInt32">500</change>
+			<change operation="set" property="IncomeMultiplierInPercent" key="1" type="UInt32">100</change>
+			<change operation="set" property="IncomeMultiplierInPercent" key="2" type="UInt32">150</change>
+			<change operation="set" property="IncomeMultiplierInPercent" key="3" type="UInt32">200</change>
+			<change operation="set" property="IncomeMultiplierInPercent" key="4" type="UInt32">400</change>
 			<change operation="set" property="IncomeMultiplierInPercent" key="5" type="UInt32">900</change>
 		</changes>
 	</ndfpatch>
