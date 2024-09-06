@@ -74,6 +74,7 @@
          <change type="TableString" operation="add">HOL</change>
          <change type="TableString" operation="add">ISR</change>
          <change type="TableString" operation="add">SA</change>
+         <change type="TableString" operation="add">ITA</change>
          <change operation="unselect" />
       </changes>
    </ndfpatch>

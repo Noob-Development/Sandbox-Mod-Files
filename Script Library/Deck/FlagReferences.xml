@@ -277,6 +277,18 @@
                     </value>
                 </map>
 			</change>
+            <change property="MapCountryFlag_Long" operation="append" type="map">
+                <map>
+                    <key type="TableString">ITA</key>
+                    <value type="ObjectReference">
+                        <reference table="TUIResourceTexture">
+                            <matchconditions>
+                                <matchcondition type="property" property="FileName">GameData:/Assets/2D/Interface/Common/Flags/Normal/ITA_FLAG.png</matchcondition>
+                            </matchconditions>
+                        </reference>
+                    </value>
+                </map>
+            </change>
       </changes>
 	</ndfpatch>
 	

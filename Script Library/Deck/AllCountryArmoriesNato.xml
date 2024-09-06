@@ -37,6 +37,7 @@
 			<change type="TableString" operation="append">NK</change>
 			<change type="TableString" operation="append">FIN</change>
 			<change type="TableString" operation="append">YUG</change>
+			<change type="TableString" operation="append">ITA</change>
 		</changes>
 	</ndfpatch>
 	

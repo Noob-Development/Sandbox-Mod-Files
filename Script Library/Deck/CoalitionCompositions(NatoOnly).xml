@@ -94,6 +94,7 @@
          <change type="TableString" operation="add">HOL</change>
          <change type="TableString" operation="add">ISR</change>
          <change type="TableString" operation="add">SA</change>
+         <change type="TableString" operation="add">ITA</change>
          <change type="TableString" operation="add">URSS</change>
          <change type="TableString" operation="add">POL</change>
          <change type="TableString" operation="add">TCH</change>

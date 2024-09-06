@@ -27,6 +27,7 @@
 			<change property="CountriesNATO" type="TableString" operation="append">NK</change>
 			<change property="CountriesNATO" type="TableString" operation="append">FIN</change>
 			<change property="CountriesNATO" type="TableString" operation="append">YUG</change>
+			<change property="CountriesNATO" type="TableString" operation="append">ITA</change>
 		</changes>
 	</ndfpatch>
 </wargamepatch>
