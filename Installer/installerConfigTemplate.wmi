@@ -19,26 +19,26 @@
         <LocationScreen>
           <Header Text="Locate your base Wargame: Red Dragon Files" />
           <Description Text="The setup will install the mod into your Wargame: Red Dragon folder.&#xD;&#xA;&#xD;&#xA;If the following location is not your Wargame: Red Dragon installation directory, please specify the correct one by clicking the &quot;Browse&quot; button.&#xD;&#xA;&#xD;&#xA;(The default location on PC should be &quot;C:\Program Files (x86)\Steam\steamapps\common\Wargame Red Dragon\&quot;)&#xD;&#xA;&#xD;&#xA;Click the &quot;Next&quot; button when you are ready to continue." />
-          <BackgroundImage Path="Extra\Backgrounds\avenger.jpg" />
+          <BackgroundImage Path="Extra\Backgrounds\f18.jpg" />
         </LocationScreen>
         <ComponentSelectionScreen>
           <Header Text="Select the exact modifications you want to install" />
           <Description Text=" * If a component with an astrisk is selected, you can only play with people with the same components installed." />
-          <BackgroundImage Path="Extra\Backgrounds\lynx.jpg" />
+          <BackgroundImage Path="Extra\Backgrounds\f18.jpg" />
         </ComponentSelectionScreen>
         <ProgressScreen>
           <Header Text="The selected mods are installing." />
           <Description Text="Please be patient. Though I can imagine why it might be hard. :)" />
-          <BackgroundImage Path="Extra\Backgrounds\su27.jpg" />
+          <BackgroundImage Path="Extra\Backgrounds\f18.jpg" />
         </ProgressScreen>
         <InstallCompletedScreen>
           <Header Text="Installation Finished"></Header>
           <Description Text="Congratulations, the mod finished installing! To connect with other Sandbox players, join our Discord! https://discord.gg/s9TgvkQ" />
-          <BackgroundImage Path="Extra\Backgrounds\rafale.jpg" />
+          <BackgroundImage Path="Extra\Backgrounds\f18.jpg" />
         </InstallCompletedScreen>
         <InstallFailedScreen>
           <Description Text="The installation has failed. Check the #common-questions channel on the Sandbox Mod Discord to see if this is a common problem." />
-          <BackgroundImage Path="Extra\Backgrounds\ships.jpg" />
+          <BackgroundImage Path="Extra\Backgrounds\f18.jpg" />
         </InstallFailedScreen>
         <InstallCanceledScreen>
           <Header Text="Installation Canceled" />
