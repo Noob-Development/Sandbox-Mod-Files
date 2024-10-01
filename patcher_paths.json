@@ -82,10 +82,16 @@
     }
   },
   "Gameplay": {
-    "All Supply Units Have Unlimited Supplies": {
-      "desc": "All FOBs, Logistic Trucks and helicopters has near-unlimited supplies.",
+    "All FOBs Have Unlimited Supplies": {
+      "desc": "All FOBs has near-unlimited supplies.",
       "paths": [
         "InfiniteFobSupply.xml"
+      ]
+    },
+    "All Logistic Vehicles Have Unlimited Supplies": {
+      "desc": "All Logistic Trucks and helicopters has near-unlimited supplies.",
+      "paths": [
+        "InfiniteSupplyAllVehicles.xml"
       ]
     },
     "Ground/Sea Units Reload and Refuel Faster": {
@@ -118,7 +124,7 @@
         "MunaLcuSpeed.xml"
       ]
     },
-    "All Ground Vehicles are Slower": {
+    "All Ground Vehicles Are Slower": {
       "desc": "Road speeds are significantly slower, off-road speeds are 20% slower.",
       "paths": [
         "VehicleSpeeds.xml"
@@ -130,7 +136,7 @@
         "AccuracyReduction.xml"
       ]
     },
-    "999 Starting Political Points In Campaign": {
+    "Unlimited Campaign Political Points": {
       "desc": "Players get 999 political points when starting any campaign.",
       "paths": [
         "CampaignStartingPoliticalPoints.xml"

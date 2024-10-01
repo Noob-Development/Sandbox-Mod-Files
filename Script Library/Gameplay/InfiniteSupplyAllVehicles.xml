@@ -1,0 +1,110 @@
+<!-- THIS IS A COMMENT -->
+<wargamepatch>
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TModuleModernWarfareSupplyDescriptor" name="infiniteSupplysVehicles500">
+        <matchconditions>
+            <matchcondition type="property" property="SupplyCapacity">500</matchcondition>
+        </matchconditions>
+        <changes>
+            <change operation="set" property="SupplyCapacity" type="Int32">999999</change>
+        </changes>
+    </ndfpatch>
+
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TModuleModernWarfareSupplyDescriptor" name="infiniteSupplysVehicles800">
+        <matchconditions>
+            <matchcondition type="property" property="SupplyCapacity">800</matchcondition>
+        </matchconditions>
+        <changes>
+            <change operation="set" property="SupplyCapacity" type="Int32">999999</change>
+        </changes>
+    </ndfpatch>
+
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TModuleModernWarfareSupplyDescriptor" name="infiniteSupplysVehicles1000">
+        <matchconditions>
+            <matchcondition type="property" property="SupplyCapacity">1000</matchcondition>
+        </matchconditions>
+        <changes>
+            <change operation="set" property="SupplyCapacity" type="Int32">999999</change>
+        </changes>
+    </ndfpatch>
+
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TModuleModernWarfareSupplyDescriptor" name="infiniteSupplysVehicles1100">
+        <matchconditions>
+            <matchcondition type="property" property="SupplyCapacity">1100</matchcondition>
+        </matchconditions>
+        <changes>
+            <change operation="set" property="SupplyCapacity" type="Int32">999999</change>
+        </changes>
+    </ndfpatch>
+
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TModuleModernWarfareSupplyDescriptor" name="infiniteSupplysVehicles1500">
+        <matchconditions>
+            <matchcondition type="property" property="SupplyCapacity">1500</matchcondition>
+        </matchconditions>
+        <changes>
+            <change operation="set" property="SupplyCapacity" type="Int32">999999</change>
+        </changes>
+    </ndfpatch>
+
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TModuleModernWarfareSupplyDescriptor" name="infiniteSupplysVehicles1750">
+        <matchconditions>
+            <matchcondition type="property" property="SupplyCapacity">1750</matchcondition>
+        </matchconditions>
+        <changes>
+            <change operation="set" property="SupplyCapacity" type="Int32">999999</change>
+        </changes>
+    </ndfpatch>
+
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TModuleModernWarfareSupplyDescriptor" name="infiniteSupplysVehicles2400">
+        <matchconditions>
+            <matchcondition type="property" property="SupplyCapacity">2400</matchcondition>
+        </matchconditions>
+        <changes>
+            <change operation="set" property="SupplyCapacity" type="Int32">999999</change>
+        </changes>
+    </ndfpatch>
+
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TModuleModernWarfareSupplyDescriptor" name="infiniteSupplysVehicles2500">
+        <matchconditions>
+            <matchcondition type="property" property="SupplyCapacity">2500</matchcondition>
+        </matchconditions>
+        <changes>
+            <change operation="set" property="SupplyCapacity" type="Int32">999999</change>
+        </changes>
+    </ndfpatch>
+
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TModuleModernWarfareSupplyDescriptor" name="infiniteSupplysVehicles3700">
+        <matchconditions>
+            <matchcondition type="property" property="SupplyCapacity">3700</matchcondition>
+        </matchconditions>
+        <changes>
+            <change operation="set" property="SupplyCapacity" type="Int32">999999</change>
+        </changes>
+    </ndfpatch>
+
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TModuleModernWarfareSupplyDescriptor" name="infiniteSupplysVehicles6000">
+        <matchconditions>
+            <matchcondition type="property" property="SupplyCapacity">6000</matchcondition>
+        </matchconditions>
+        <changes>
+            <change operation="set" property="SupplyCapacity" type="Int32">999999</change>
+        </changes>
+    </ndfpatch>
+
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TModuleModernWarfareSupplyDescriptor" name="infiniteSupplysVehicles10000">
+        <matchconditions>
+            <matchcondition type="property" property="SupplyCapacity">10000</matchcondition>
+        </matchconditions>
+        <changes>
+            <change operation="set" property="SupplyCapacity" type="Int32">999999</change>
+        </changes>
+    </ndfpatch>
+
+    <ndfpatch ndf="pc\ndf\patchable\gfx\everything.ndfbin" table="TModuleModernWarfareSupplyDescriptor" name="infiniteSupplysVehicles15000">
+        <matchconditions>
+            <matchcondition type="property" property="SupplyCapacity">15000</matchcondition>
+        </matchconditions>
+        <changes>
+            <change operation="set" property="SupplyCapacity" type="Int32">999999</change>
+        </changes>
+    </ndfpatch>
+</wargamepatch>
